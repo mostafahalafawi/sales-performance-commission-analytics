@@ -384,4 +384,4 @@ outcomes.
 ---
 
 **Author:** Mostafa Halafawi · Senior Data & Performance Analyst ·
-[LinkedIn](https://www.linkedin.com/in/mostafahalafawi) · [GitHub](https://github.com/mostafahalafawi)
+[LinkedIn](https://www.linkedin.com/in/mostafa-halafawi/) · [GitHub](https://github.com/mostafahalafawi)
