@@ -1,0 +1,7 @@
+product_line,is_strategic,revenue_2024_usd,revenue_2025_usd,yoy_growth_pct,revenue_share_pct,gross_margin_pct,margin_share_pct,discount_rate_pct,credit_note_rate_pct
+Connectivity,0,15157764.0,17578592.0,16.0,25.5,41.8,23.8,10.5,2.57
+Cloud,0,12960721.0,15038673.0,16.0,21.8,50.6,24.6,11.2,2.14
+Cybersecurity,1,10889894.0,11971429.0,9.9,17.8,63.4,25.2,11.7,1.99
+Managed Services,1,9459905.0,10572692.0,11.8,15.6,48.8,17.0,11.0,1.93
+Devices,0,7990151.0,8193823.0,2.5,12.6,10.3,2.9,13.7,2.65
+Professional Services,0,3954787.0,4840350.0,22.4,6.8,42.6,6.5,11.5,2.48

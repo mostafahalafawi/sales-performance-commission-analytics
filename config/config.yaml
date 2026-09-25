@@ -1,0 +1,141 @@
+# =============================================================================
+# Sales Performance & Commission Analytics - pipeline configuration
+# -----------------------------------------------------------------------------
+# Every tunable value used by the generator, ETL, KPI engine and analysis lives
+# here. Nothing downstream hard-codes business rules.
+# All data produced from this configuration is SYNTHETIC.
+# =============================================================================
+
+project:
+  company_name: "Nexora Business Solutions (fictional)"
+  seed: 20240101
+  start_date: "2024-01-01"
+  end_date: "2025-12-31"
+  reporting_currency: USD
+
+paths:
+  raw: data/raw
+  processed: data/processed
+  sample: data/sample
+  database: data/processed/sales_analytics.db
+  reports: reports
+  images: images
+  insights: insights
+  sql: sql
+
+# -----------------------------------------------------------------------------
+# Markets. fx_rate = local currency units per 1 USD (monthly average).
+# EGP follows an illustrative path with a step devaluation in Mar-2024;
+# SAR / AED / OMR are USD-pegged. Values are illustrative, not market data.
+# -----------------------------------------------------------------------------
+countries:
+  EG: {name: Egypt,        currency: EGP, region: North Africa}
+  SA: {name: Saudi Arabia, currency: SAR, region: GCC}
+  AE: {name: UAE,          currency: AED, region: GCC}
+  OM: {name: Oman,         currency: OMR, region: GCC}
+
+fx:
+  pegged: {SAR: 3.75, AED: 3.6725, OMR: 0.3845, USD: 1.0}
+  egp_path:
+    pre_float_rate: 30.90        # Jan-Feb 2024
+    float_month: "2024-03"
+    post_float_start: 47.50
+    end_rate: 50.50              # linear drift to Dec-2025
+    noise_pct: 0.008
+
+departments:
+  ENT: Enterprise Sales
+  SME: SME Sales
+  CHN: Channel & Partner Sales
+
+# Teams: planned headcount per year drives the team plan (capacity).
+teams:
+  - {team_id: T01, team_name: Egypt Enterprise, country: EG, department: ENT, hc_2024: 9,  hc_2025: 9}
+  - {team_id: T02, team_name: Egypt SME,        country: EG, department: SME, hc_2024: 11, hc_2025: 12}
+  - {team_id: T03, team_name: Egypt Channel,    country: EG, department: CHN, hc_2024: 7,  hc_2025: 7}
+  - {team_id: T04, team_name: KSA Enterprise,   country: SA, department: ENT, hc_2024: 10, hc_2025: 11}
+  - {team_id: T05, team_name: KSA SME,          country: SA, department: SME, hc_2024: 10, hc_2025: 10}
+  - {team_id: T06, team_name: UAE Enterprise,   country: AE, department: ENT, hc_2024: 9,  hc_2025: 10}
+  - {team_id: T07, team_name: UAE Channel,      country: AE, department: CHN, hc_2024: 8,  hc_2025: 8}
+  - {team_id: T08, team_name: Oman SME,         country: OM, department: SME, hc_2024: 5,  hc_2025: 8}
+
+# -----------------------------------------------------------------------------
+# Quota model (monthly USD quota per fully-ramped rep, before phasing)
+# -----------------------------------------------------------------------------
+quota:
+  base_monthly_usd: {ENT: 104000, SME: 54000, CHN: 61000}
+  country_factor:   {EG: 0.74, SA: 1.12, AE: 1.19, OM: 0.80}
+  annual_uplift:    {2024: 1.00, 2025: 1.15}
+  # Planning phasing used by Finance when setting targets (company-wide).
+  plan_phasing: [0.88, 0.95, 1.00, 1.00, 1.00, 1.04, 0.95, 0.92, 1.00, 1.04, 1.08, 1.14]
+  ramp_factors: [0.40, 0.65, 0.85]          # months 1-3 of tenure
+
+# -----------------------------------------------------------------------------
+# Commission plan (versioned). Tiers on monthly achievement (net revenue / target).
+# Rates apply to the whole commissionable base (retroactive tiers).
+# -----------------------------------------------------------------------------
+commission_plans:
+  - plan_id: CP2024
+    plan_name: "2024 Sales Incentive Plan"
+    effective_from: "2024-01-01"
+    effective_to: "2024-12-31"
+    tiers:
+      - {tier: "T0 Below Gate", min: -99.0, max: 0.80, rate: 0.000}
+      - {tier: "T1 Approaching", min: 0.80, max: 1.00, rate: 0.005}
+      - {tier: "T2 On Target",   min: 1.00, max: 1.20, rate: 0.010}
+      - {tier: "T3 Accelerator", min: 1.20, max: 99.0, rate: 0.015}
+    strategic_weight: 1.25
+    cap_multiple_of_target: 1.50
+    clawback_window_days: 90
+  - plan_id: CP2025
+    plan_name: "2025 Sales Incentive Plan"
+    effective_from: "2025-01-01"
+    effective_to: "2025-12-31"
+    tiers:
+      - {tier: "T0 Below Gate", min: -99.0, max: 0.85, rate: 0.000}
+      - {tier: "T1 Approaching", min: 0.85, max: 1.00, rate: 0.005}
+      - {tier: "T2 On Target",   min: 1.00, max: 1.20, rate: 0.010}
+      - {tier: "T3 Accelerator", min: 1.20, max: 99.0, rate: 0.015}
+    strategic_weight: 1.25
+    cap_multiple_of_target: 1.50
+    clawback_window_days: 90
+
+strategic_product_lines: [Cybersecurity, Managed Services]
+
+# -----------------------------------------------------------------------------
+# Data-quality defect injection (generator only). Rates are per raw row.
+# The ETL/validation layer must detect these without reading this block.
+# -----------------------------------------------------------------------------
+defects:
+  duplicate_line_rate: 0.006
+  alt_date_format_rate: 0.020
+  country_variant_rate: 0.030
+  negative_qty_on_invoice_rate: 0.002
+  missing_rep_rate: 0.003
+  future_date_rate: 0.0006
+  invalid_currency_rate: 0.002
+  zero_price_rate: 0.002
+  sku_format_rate: 0.015
+  orphan_sku_rate: 0.001
+  missing_target_rate: 0.004
+  target_revision_rate: 0.05
+
+# -----------------------------------------------------------------------------
+# Analysis thresholds
+# -----------------------------------------------------------------------------
+analysis:
+  consistent_window_months: 12
+  consistent_min_months_on_target: 9
+  decline_window_months: 6
+  decline_slope_pp_per_month: -5.0     # 3M-rolling achievement slope
+  decline_max_latest_rolling: 0.90
+  anomaly_mad_threshold: 3.5           # robust z-score
+  month_end_days: 3
+  month_end_share_threshold: 0.50      # share of month gross booked in last N days
+  underperformer_threshold: 0.80       # avg achievement
+  performer_threshold: 1.00
+  min_months_for_classification: 6
+
+reporting:
+  statement_month: "2025-12"           # month for rep commission statements
+  sample_rows: 5000

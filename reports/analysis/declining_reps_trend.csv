@@ -1,0 +1,8 @@
+employee_code,full_name,team_name,slope_pp_per_month,rolling_3m_6_months_ago_pct,rolling_3m_latest_pct,ytd_achievement_pct
+REP-051,Faisal Al-Dosari,UAE Enterprise,-15.8,144.6,85.5,111.5
+REP-003,Nour Zaki,Egypt Enterprise,-13.3,142.9,83.9,107.0
+REP-015,Mohamed Shawky,Egypt SME,-10.3,140.9,79.3,102.9
+REP-009,Rami Naguib,Egypt Enterprise,-9.7,88.9,50.1,73.5
+REP-083,Fahad Al-Harbi,UAE Enterprise,-9.5,103.3,70.5,74.3
+REP-028,Khaled Shawky,KSA Enterprise,-8.6,80.6,40.0,82.6
+REP-007,Hamad Al-Ketbi,Egypt Enterprise,-5.4,57.9,21.4,52.4

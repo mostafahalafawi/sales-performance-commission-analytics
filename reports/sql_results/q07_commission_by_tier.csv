@@ -1,0 +1,11 @@
+plan_id,tier_name,rep_months,pct_of_rep_months,net_revenue_usd,commission_usd,pct_of_commission,commission_to_revenue_pct,capped_rep_months
+CP2024,No Target,4,0.5,272182.0,0.0,0.0,0.0,0
+CP2024,T0 Below Gate,294,36.4,11495740.0,0.0,0.0,0.0,0
+CP2024,T1 Approaching,132,16.3,8008807.0,43456.0,7.8,0.54,0
+CP2024,T2 On Target,125,15.5,9738417.0,105246.0,18.9,1.08,0
+CP2024,T3 Accelerator,253,31.3,30903167.0,409016.0,73.3,1.32,177
+CP2025,No Target,2,0.2,157553.0,0.0,0.0,0.0,0
+CP2025,T0 Below Gate,449,49.5,20137778.0,0.0,0.0,0.0,0
+CP2025,T1 Approaching,114,12.6,8524280.0,46527.0,8.1,0.55,0
+CP2025,T2 On Target,102,11.2,8979987.0,98493.0,17.1,1.1,0
+CP2025,T3 Accelerator,240,26.5,30429517.0,431166.0,74.8,1.42,147

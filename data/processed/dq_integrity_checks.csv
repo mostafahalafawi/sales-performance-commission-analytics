@@ -1,0 +1,12 @@
+check_id,description,passed
+IC-01,fact_sales.line_id is unique,True
+IC-02,Every fact_sales.product_key exists in dim_product,True
+IC-03,Every fact_sales.rep_key exists in dim_employee,True
+IC-04,Every fact_sales.team_key exists in dim_team,True
+IC-05,Every fact_sales.customer_key exists in dim_customer,True
+IC-06,Invoice lines have positive net USD; credit notes negative,True
+IC-07,"gross - discount = net (USD, 0.01 tolerance)",True
+IC-08,Cost never exceeds gross (sign-aware),True
+IC-09,fact_targets unique per rep-month,True
+IC-10,Every credit note references an invoice present in fact_sales,True
+IC-11,Credit note never dated before its original invoice,True

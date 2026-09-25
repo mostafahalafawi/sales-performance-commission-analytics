@@ -1,0 +1,17 @@
+team_name,department_name,year,target_usd,actual_usd,achievement_pct,variance_usd,avg_active_reps,planned_headcount,status,team_rank
+UAE Channel,Channel & Partner Sales,2024,6515606.0,7311422.0,112.2,795816.0,7.8,8.0,Above target,1
+Egypt Channel,Channel & Partner Sales,2024,3791760.0,4087973.0,107.8,296213.0,7.0,7.0,Above target,2
+Oman SME,SME Sales,2024,2458858.0,2618632.0,106.5,159774.0,4.8,5.0,Above target,3
+Egypt SME,SME Sales,2024,4998037.0,5309167.0,106.2,311130.0,10.7,11.0,Above target,4
+KSA SME,SME Sales,2024,7005580.0,7341105.0,104.8,335525.0,9.8,10.0,Above target,5
+UAE Enterprise,Enterprise Sales,2024,12859345.0,12962308.0,100.8,102963.0,8.8,9.0,Above target,6
+Egypt Enterprise,Enterprise Sales,2024,8223946.0,8055821.0,98.0,-168124.0,8.9,9.0,Slightly below (90-99%),7
+KSA Enterprise,Enterprise Sales,2024,13145642.0,12726795.0,96.8,-418847.0,9.6,10.0,Slightly below (90-99%),8
+KSA SME,SME Sales,2025,8072483.0,8978214.0,111.2,905730.0,9.8,10.0,Above target,1
+Oman SME,SME Sales,2025,4368983.0,4650130.0,106.4,281146.0,7.7,8.0,Above target,2
+Egypt SME,SME Sales,2025,7055249.0,6670677.0,94.5,-384572.0,13.0,12.0,Slightly below (90-99%),3
+KSA Enterprise,Enterprise Sales,2025,17154429.0,15775429.0,92.0,-1379000.0,10.8,11.0,Slightly below (90-99%),4
+Egypt Channel,Channel & Partner Sales,2025,3987310.0,3489271.0,87.5,-498039.0,6.7,7.0,Materially below (<90%),5
+Egypt Enterprise,Enterprise Sales,2025,9310621.0,7918756.0,85.1,-1391865.0,8.9,9.0,Materially below (<90%),6
+UAE Enterprise,Enterprise Sales,2025,16634616.0,13880894.0,83.4,-2753721.0,10.1,10.0,Materially below (<90%),7
+UAE Channel,Channel & Partner Sales,2025,8446814.0,6832189.0,80.9,-1614625.0,8.7,8.0,Materially below (<90%),8

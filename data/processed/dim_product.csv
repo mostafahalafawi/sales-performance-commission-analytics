@@ -1,0 +1,21 @@
+product_key,sku,product_name,product_line,list_price_usd,unit_cost_pct,is_strategic,commission_weight
+1,CN-FIB-100,Business Fiber 100 Mbps (annual),Connectivity,2400,0.55,0,1.0
+2,CN-FIB-1G,Dedicated Internet 1 Gbps (annual),Connectivity,14000,0.5,0,1.0
+3,CN-SDWAN,SD-WAN Site License (annual),Connectivity,3600,0.45,0,1.0
+4,CN-MPLS,MPLS Site Link (annual),Connectivity,9000,0.55,0,1.0
+5,CL-IAAS-S,Cloud Compute Bundle - Small,Cloud,1800,0.4,0,1.0
+6,CL-IAAS-L,Cloud Compute Bundle - Large,Cloud,7500,0.38,0,1.0
+7,CL-BKP,Backup-as-a-Service (1 TB),Cloud,1200,0.3,0,1.0
+8,CL-PROD,"Productivity Suite (10 users, annual)",Cloud,1500,0.7,0,1.0
+9,CY-FW,Managed Firewall (annual),Cybersecurity,6000,0.35,1,1.25
+10,CY-EDR,Endpoint Protection (50 seats),Cybersecurity,3000,0.3,1,1.25
+11,CY-SOC,24/7 SOC Monitoring (annual),Cybersecurity,18000,0.4,1,1.25
+12,MS-HELP,Managed Helpdesk (annual),Managed Services,4800,0.45,1,1.25
+13,MS-NOC,Network Operations Centre (annual),Managed Services,12000,0.42,1,1.25
+14,MS-COLO,Colocation Rack (annual),Managed Services,9600,0.5,1,1.25
+15,DV-RTR,Enterprise Router,Devices,1100,0.78,0,1.0
+16,DV-SW48,Managed Switch 48-port,Devices,2200,0.8,0,1.0
+17,DV-AP,Wi-Fi 6 Access Point,Devices,450,0.75,0,1.0
+18,PS-IMPL,Implementation Services (per day),Professional Services,800,0.55,0,1.0
+19,PS-AUD,Security Audit,Professional Services,5500,0.45,0,1.0
+20,PS-TRN,Technical Training (per course),Professional Services,1500,0.5,0,1.0

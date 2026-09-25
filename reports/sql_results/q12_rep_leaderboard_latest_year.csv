@@ -1,0 +1,21 @@
+company_rank,country_rank,employee_code,full_name,country_name,team_name,months,ytd_actual_usd,ytd_target_usd,ytd_achievement_pct,list
+1,1,REP-044,Maha Lotfy,Saudi Arabia,KSA SME,12,1410390.0,834624.0,169.0,Top 10
+2,1,REP-006,Abdullah Nasr,Egypt,Egypt Enterprise,12,1542673.0,1062048.0,145.3,Top 10
+3,1,REP-081,Fahad Sabry,Oman,Oman SME,12,761550.0,545958.0,139.5,Top 10
+4,2,REP-043,Mariam Al-Mutairi,Saudi Arabia,KSA SME,12,1126312.0,834624.0,134.9,Top 10
+5,2,REP-027,Fahad Al-Nuaimi,Egypt,Egypt Channel,12,797298.0,622932.0,128.0,Top 10
+6,2,REP-084,Walid Rizk,Oman,Oman SME,10,574962.0,450598.0,127.6,Top 10
+7,3,REP-070,Rana Sabry,Saudi Arabia,KSA Enterprise,12,1960102.0,1607424.0,121.9,Top 10
+8,4,REP-085,Walid Al-Harbi,Saudi Arabia,KSA Enterprise,9,1309877.0,1080189.0,121.3,Top 10
+9,5,REP-047,Rashid Al-Rawahi,Saudi Arabia,KSA SME,12,1009734.0,834624.0,121.0,Top 10
+10,3,REP-010,Yasmin Al-Harbi,Egypt,Egypt SME,12,661855.0,551448.0,120.0,Top 10
+69,17,REP-054,Mariam Adly,UAE,UAE Enterprise,12,1052183.0,1707888.0,61.6,Bottom 10
+70,25,REP-008,Laila Gamal,Egypt,Egypt Enterprise,12,648804.0,1062048.0,61.1,Bottom 10
+71,26,REP-005,Ahmed Wahba,Egypt,Egypt Enterprise,12,645324.0,1062048.0,60.8,Bottom 10
+72,18,REP-088,Karim Al-Ketbi,UAE,UAE Enterprise,8,605251.0,1005306.0,60.2,Bottom 10
+73,27,REP-026,Faisal Barakat,Egypt,Egypt Channel,9,265667.0,453702.0,58.6,Bottom 10
+74,19,REP-086,Mahmoud Zaki,UAE,UAE Channel,9,381241.0,673171.0,56.6,Bottom 10
+75,20,REP-073,Saif Nasr,UAE,UAE Enterprise,8,648341.0,1162787.0,55.8,Bottom 10
+76,28,REP-023,Fahad Shawky,Egypt,Egypt Channel,12,330946.0,622932.0,53.1,Bottom 10
+77,29,REP-007,Hamad Al-Ketbi,Egypt,Egypt Enterprise,12,556419.0,1062048.0,52.4,Bottom 10
+78,21,REP-034,Aisha Osman,Saudi Arabia,KSA Enterprise,12,719018.0,1607424.0,44.7,Bottom 10

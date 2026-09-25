@@ -1,0 +1,26 @@
+rule_id,description,rows_affected,table,severity,action,pct_of_rows
+STD-01,Non-ISO date formats normalised to ISO,632,sales_lines,LOW,FIX,
+STD-02,Country name variants mapped to ISO-2 codes,947,sales_lines,LOW,FIX,
+STD-03,SKU codes trimmed and upper-cased,476,sales_lines,LOW,FIX,
+DQ-S01,Exact duplicate line (same line_id exported twice),188,sales_lines,HIGH,DROP,0.596
+DQ-S02,Document date missing or unparseable,0,sales_lines,CRITICAL,QUARANTINE,0.0
+DQ-S03,Document date outside reporting window (e.g. future-dated),19,sales_lines,HIGH,QUARANTINE,0.06
+DQ-S04,Sales rep code missing,94,sales_lines,CRITICAL,QUARANTINE,0.298
+DQ-S05,Rep code not found in employee master,0,sales_lines,HIGH,QUARANTINE,0.0
+DQ-S06,SKU not found in product master (orphan product),31,sales_lines,HIGH,QUARANTINE,0.098
+DQ-S07,Customer not found in customer master,0,sales_lines,HIGH,QUARANTINE,0.0
+DQ-S08,Currency code invalid / not in FX table,63,sales_lines,HIGH,QUARANTINE,0.2
+DQ-S09,Country could not be mapped to a known market,0,sales_lines,HIGH,QUARANTINE,0.0
+DQ-S10,Negative quantity on an invoice (sign error; only credit notes may be negative),62,sales_lines,HIGH,QUARANTINE,0.197
+DQ-S11,Positive quantity on a credit note,0,sales_lines,HIGH,QUARANTINE,0.0
+DQ-S12,Credit note without a reference to an original invoice,0,sales_lines,MEDIUM,QUARANTINE,0.0
+DQ-S13,Zero / missing price on invoice line (repaired from product list price),61,sales_lines,MEDIUM,FIX,0.193
+DQ-S14,Discount outside 0-60% range,0,sales_lines,MEDIUM,QUARANTINE,0.0
+DQ-S15,Net amount inconsistent with qty x price x (1-discount) by > 1%,0,sales_lines,MEDIUM,FLAG,0.0
+DQ-S16,Rep not assigned to any team on the document date,0,sales_lines,HIGH,QUARANTINE,0.0
+DQ-S17,Credit note whose original invoice is missing or quarantined,1,sales_lines,HIGH,QUARANTINE,0.003
+DQ-S18,Credit note exceeds the clean value of its original invoice,7,sales_lines,HIGH,QUARANTINE,0.022
+DQ-T01,Superseded target revision (older revision of same rep-month),85,targets,LOW,DROP,4.738
+DQ-T02,Target not positive,0,targets,HIGH,QUARANTINE,0.0
+DQ-T03,Target rep code not in employee master,0,targets,HIGH,QUARANTINE,0.0
+DQ-T04,Active rep-month with no target (commission not computable),6,targets,HIGH,FLAG,0.35

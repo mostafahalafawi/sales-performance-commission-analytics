@@ -1,0 +1,236 @@
+{
+  "revenue_2024": 60413222.0,
+  "revenue_2025": 68195559.0,
+  "target_2024": 58998772.0,
+  "target_2025": 75030504.0,
+  "achievement_2024_pct": 102.4,
+  "achievement_2025_pct": 90.9,
+  "revenue_growth_pct": 12.9,
+  "target_growth_pct": 27.2,
+  "rep_target_growth_pct": 27.2,
+  "commission_2024": 557718.0,
+  "commission_2025": 576186.0,
+  "commission_to_revenue_2024_pct": 0.92,
+  "commission_to_revenue_2025_pct": 0.84,
+  "gross_margin_pct": 44.7,
+  "active_reps_end": 79,
+  "unique_reps": 96,
+  "anomalies": 24,
+  "anomaly_spikes_month_end": 3,
+  "declining_reps_trend": 7,
+  "plan_bridge_company": [
+    {
+      "year": 2024,
+      "plan": 61540080.0,
+      "vacancy_effect": -1629639.0,
+      "allocated_target": 58998772.0,
+      "actual": 60413222.0,
+      "ramp_and_other_effect": -911669.0,
+      "execution_effect": 1414450.0
+    },
+    {
+      "year": 2025,
+      "plan": 76426332.0,
+      "vacancy_effect": -1705548.0,
+      "allocated_target": 75030504.0,
+      "actual": 68195559.0,
+      "ramp_and_other_effect": 309721.0,
+      "execution_effect": -6834945.0
+    }
+  ],
+  "plan_bridge_country_2025": [
+    {
+      "year": 2025,
+      "country_code": "AE",
+      "plan": 25092816.0,
+      "vacancy_effect": -707884.0,
+      "allocated_target": 25081429.0,
+      "actual": 20713083.0,
+      "ramp_and_other_effect": 696497.0,
+      "execution_effect": -4368346.0
+    },
+    {
+      "year": 2025,
+      "country_code": "EG",
+      "plan": 20536332.0,
+      "vacancy_effect": -280856.0,
+      "allocated_target": 20353179.0,
+      "actual": 18078704.0,
+      "ramp_and_other_effect": 97703.0,
+      "execution_effect": -2274476.0
+    },
+    {
+      "year": 2025,
+      "country_code": "OM",
+      "plan": 4769280.0,
+      "vacancy_effect": -190274.0,
+      "allocated_target": 4368983.0,
+      "actual": 4650130.0,
+      "ramp_and_other_effect": -210022.0,
+      "execution_effect": 281146.0
+    },
+    {
+      "year": 2025,
+      "country_code": "SA",
+      "plan": 26027904.0,
+      "vacancy_effect": -526534.0,
+      "allocated_target": 25226912.0,
+      "actual": 24753643.0,
+      "ramp_and_other_effect": -274457.0,
+      "execution_effect": -473269.0
+    }
+  ],
+  "yoy_bridge_company": [
+    {
+      "group": "Company",
+      "revenue_2024": 60418314.2,
+      "revenue_2025": 68229114.72,
+      "change": 7810800.52,
+      "headcount_effect": 7425415.8069,
+      "deal_volume_effect": 3569722.6012,
+      "deal_size_effect": -2828955.819,
+      "discount_effect": 185930.0441,
+      "credit_note_effect": -541312.1132,
+      "discount_rate_2024": 0.1157,
+      "discount_rate_2025": 0.1131,
+      "deals_per_rm_2024": 8.4072,
+      "deals_per_rm_2025": 8.8875
+    }
+  ],
+  "yoy_bridge_country": [
+    {
+      "group": "AE",
+      "revenue_2024": 20273729.43,
+      "revenue_2025": 20731184.43,
+      "change": 457455.0,
+      "headcount_effect": 2620789.4589,
+      "deal_volume_effect": -1711445.2135,
+      "deal_size_effect": -185001.9422,
+      "discount_effect": -151274.8864,
+      "credit_note_effect": -115612.4168,
+      "discount_rate_2024": 0.1392,
+      "discount_rate_2025": 0.1455,
+      "deals_per_rm_2024": 6.7929,
+      "deals_per_rm_2025": 6.2489
+    },
+    {
+      "group": "EG",
+      "revenue_2024": 17452961.05,
+      "revenue_2025": 18094157.5,
+      "change": 641196.45,
+      "headcount_effect": 1289142.495,
+      "deal_volume_effect": 492153.7577,
+      "deal_size_effect": -882693.0099,
+      "discount_effect": 73164.7506,
+      "credit_note_effect": -330571.5435,
+      "discount_rate_2024": 0.1211,
+      "discount_rate_2025": 0.1175,
+      "deals_per_rm_2024": 9.0094,
+      "deals_per_rm_2025": 9.2624
+    },
+    {
+      "group": "OM",
+      "revenue_2024": 2618631.87,
+      "revenue_2025": 4650129.67,
+      "change": 2031497.8,
+      "headcount_effect": 1632100.561,
+      "deal_volume_effect": 424868.9367,
+      "deal_size_effect": -12065.0275,
+      "discount_effect": -8679.4665,
+      "credit_note_effect": -4727.2037,
+      "discount_rate_2024": 0.0539,
+      "discount_rate_2025": 0.0562,
+      "deals_per_rm_2024": 10.6034,
+      "deals_per_rm_2025": 11.9565
+    },
+    {
+      "group": "SA",
+      "revenue_2024": 20072991.85,
+      "revenue_2025": 24753643.12,
+      "change": 4680651.27,
+      "headcount_effect": 1303047.5848,
+      "deal_volume_effect": 3025393.9472,
+      "deal_size_effect": 377084.8676,
+      "discount_effect": 59207.831,
+      "credit_note_effect": -84082.9605,
+      "discount_rate_2024": 0.0937,
+      "discount_rate_2025": 0.0913,
+      "deals_per_rm_2024": 8.4077,
+      "deals_per_rm_2025": 9.6275
+    }
+  ],
+  "yoy_bridge_department": [
+    {
+      "group": "CHN",
+      "revenue_2024": 11399394.25,
+      "revenue_2025": 10329523.77,
+      "change": -1069870.48,
+      "headcount_effect": 421048.4343,
+      "deal_volume_effect": -1271838.2609,
+      "deal_size_effect": 346474.0416,
+      "discount_effect": -217133.899,
+      "credit_note_effect": -348420.796,
+      "discount_rate_2024": 0.183,
+      "discount_rate_2025": 0.1992,
+      "deals_per_rm_2024": 8.1695,
+      "deals_per_rm_2025": 7.2663
+    },
+    {
+      "group": "ENT",
+      "revenue_2024": 33744923.42,
+      "revenue_2025": 37600570.43,
+      "change": 3855647.01,
+      "headcount_effect": 3128146.5255,
+      "deal_volume_effect": 1224894.1641,
+      "deal_size_effect": -285083.4061,
+      "discount_effect": 32236.9695,
+      "credit_note_effect": -244547.2429,
+      "discount_rate_2024": 0.1137,
+      "discount_rate_2025": 0.1129,
+      "deals_per_rm_2024": 5.6728,
+      "deals_per_rm_2025": 5.8711
+    },
+    {
+      "group": "SME",
+      "revenue_2024": 15273996.53,
+      "revenue_2025": 20299020.52,
+      "change": 5025023.99,
+      "headcount_effect": 3279199.9401,
+      "deal_volume_effect": 1696873.3347,
+      "deal_size_effect": -800.1936,
+      "discount_effect": 41224.338,
+      "credit_note_effect": 8526.5708,
+      "discount_rate_2024": 0.0625,
+      "discount_rate_2025": 0.0603,
+      "deals_per_rm_2024": 11.4868,
+      "deals_per_rm_2025": 12.6448
+    }
+  ],
+  "commission_scenarios": {
+    "baseline_commission_usd": 1133904.0,
+    "clawback_to_sale_month_commission_usd": 1124014.0,
+    "clawback_leakage_usd": 9890.0,
+    "clawback_leakage_pct": 0.87,
+    "quarterly_commission_usd": 1059358.0,
+    "quarterly_vs_monthly_pct": -6.6,
+    "pct_rep_months_paid_monthly": 56.5,
+    "pct_rep_quarters_paid_quarterly": 62.9,
+    "by_year": {
+      "2024": {
+        "commission_monthly": 557718.0,
+        "commission_quarterly": 563397.0
+      },
+      "2025": {
+        "commission_monthly": 576186.0,
+        "commission_quarterly": 495961.0
+      }
+    }
+  },
+  "commission_concentration": {
+    "reps": 96,
+    "top20pct_share_of_commission": 44.6,
+    "top20pct_share_of_revenue": 40.8,
+    "pearson_revenue_vs_commission_rep_month": 0.862
+  },
+  "deal_volume_vs_achievement_corr_2025": 0.879
+}

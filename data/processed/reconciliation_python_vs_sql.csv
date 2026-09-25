@@ -1,0 +1,8 @@
+check,passed,python_total_commission,sql_total_commission
+row_count,True,1133904.3,1133904.3
+actual,True,1133904.3,1133904.3
+ytd_actual,True,1133904.3,1133904.3
+rolling_3m,True,1133904.3,1133904.3
+rank_in_team,True,1133904.3,1133904.3
+tier,True,1133904.3,1133904.3
+commission,True,1133904.3,1133904.3

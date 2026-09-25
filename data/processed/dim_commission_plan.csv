@@ -1,0 +1,9 @@
+plan_tier_key,plan_id,plan_name,effective_from,effective_to,tier_order,tier_name,min_achievement,max_achievement,commission_rate,strategic_weight,cap_multiple_of_target,clawback_window_days
+1,CP2024,2024 Sales Incentive Plan,2024-01-01,2024-12-31,1,T0 Below Gate,-99.0,0.8,0.0,1.25,1.5,90
+2,CP2024,2024 Sales Incentive Plan,2024-01-01,2024-12-31,2,T1 Approaching,0.8,1.0,0.005,1.25,1.5,90
+3,CP2024,2024 Sales Incentive Plan,2024-01-01,2024-12-31,3,T2 On Target,1.0,1.2,0.01,1.25,1.5,90
+4,CP2024,2024 Sales Incentive Plan,2024-01-01,2024-12-31,4,T3 Accelerator,1.2,99.0,0.015,1.25,1.5,90
+5,CP2025,2025 Sales Incentive Plan,2025-01-01,2025-12-31,1,T0 Below Gate,-99.0,0.85,0.0,1.25,1.5,90
+6,CP2025,2025 Sales Incentive Plan,2025-01-01,2025-12-31,2,T1 Approaching,0.85,1.0,0.005,1.25,1.5,90
+7,CP2025,2025 Sales Incentive Plan,2025-01-01,2025-12-31,3,T2 On Target,1.0,1.2,0.01,1.25,1.5,90
+8,CP2025,2025 Sales Incentive Plan,2025-01-01,2025-12-31,4,T3 Accelerator,1.2,99.0,0.015,1.25,1.5,90

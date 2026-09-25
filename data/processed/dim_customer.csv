@@ -1,0 +1,971 @@
+customer_key,customer_code,customer_name,country_code,customer_segment,industry,city,owning_team_id,created_date
+1,CUST-00001,Nile Energy Co.,EG,Enterprise,Manufacturing,Giza,T01,2023-09-03
+2,CUST-00002,Alex Retail Trading,EG,Enterprise,Financial Services,Giza,T01,2021-10-24
+3,CUST-00003,Lotus Real Estate Solutions,EG,Enterprise,Energy,Alexandria,T01,2023-11-18
+4,CUST-00004,Nile Manufacturing Partners,EG,Enterprise,Education,Cairo,T01,2020-04-27
+5,CUST-00005,Delta Education Co.,EG,Enterprise,Retail,Cairo,T01,2019-11-02
+6,CUST-00006,Lotus Retail Services,EG,Enterprise,Financial Services,New Cairo,T01,2020-01-12
+7,CUST-00007,Pyramid Logistics Co.,EG,Enterprise,Media,Alexandria,T01,2022-05-04
+8,CUST-00008,Lotus Retail Solutions,EG,Enterprise,Education,New Cairo,T01,2023-08-17
+9,CUST-00009,Nile Hospitality Trading,EG,Enterprise,Education,New Cairo,T01,2022-09-28
+10,CUST-00010,Sinai Financial Services Enterprises,EG,Enterprise,Logistics,Giza,T01,2021-08-14
+11,CUST-00011,Sinai Construction Co.,EG,Enterprise,Education,Alexandria,T01,2023-07-02
+12,CUST-00012,Delta Logistics Group,EG,Enterprise,Healthcare,Giza,T01,2020-11-30
+13,CUST-00013,Sinai Media Partners,EG,Enterprise,Real Estate,Giza,T01,2023-11-19
+14,CUST-00014,Memphis Energy Co.,EG,Enterprise,Healthcare,Giza,T01,2022-08-30
+15,CUST-00015,Nile Real Estate Co.,EG,Enterprise,Media,Alexandria,T01,2023-03-04
+16,CUST-00016,Horus Media Trading,EG,Enterprise,Hospitality,Cairo,T01,2021-09-01
+17,CUST-00017,Delta Media Partners,EG,Enterprise,Logistics,Giza,T01,2020-01-28
+18,CUST-00018,Delta Government Services Solutions,EG,Enterprise,Real Estate,New Cairo,T01,2020-05-06
+19,CUST-00019,Delta Financial Services Holding,EG,Enterprise,Healthcare,Giza,T01,2021-09-14
+20,CUST-00020,Delta Manufacturing Group,EG,Enterprise,Education,Alexandria,T01,2022-03-09
+21,CUST-00021,Memphis Retail Holding,EG,Enterprise,Government Services,Giza,T01,2021-10-21
+22,CUST-00022,Delta Media Co.,EG,Enterprise,Construction,Cairo,T01,2021-05-11
+23,CUST-00023,Delta Real Estate Solutions,EG,Enterprise,Healthcare,Giza,T01,2021-11-07
+24,CUST-00024,Alex Hospitality Trading,EG,Enterprise,Real Estate,Alexandria,T01,2021-05-08
+25,CUST-00025,Lotus Education Solutions,EG,Enterprise,Media,Giza,T01,2022-02-06
+26,CUST-00026,Nile Logistics Partners,EG,Enterprise,Construction,New Cairo,T01,2019-01-10
+27,CUST-00027,Delta Healthcare Solutions,EG,Enterprise,Healthcare,New Cairo,T01,2022-12-17
+28,CUST-00028,Lotus Education Partners,EG,Enterprise,Media,New Cairo,T01,2020-01-19
+29,CUST-00029,Memphis Education Holding,EG,Enterprise,Manufacturing,Alexandria,T01,2021-04-22
+30,CUST-00030,Alex Real Estate Partners,EG,Enterprise,Education,Alexandria,T01,2019-06-16
+31,CUST-00031,Pyramid Logistics Holding,EG,Enterprise,Financial Services,New Cairo,T01,2023-09-17
+32,CUST-00032,Pyramid Financial Services Group,EG,Enterprise,Healthcare,Cairo,T01,2020-07-28
+33,CUST-00033,Pyramid Education Partners,EG,Enterprise,Logistics,Cairo,T01,2023-09-25
+34,CUST-00034,Horus Hospitality Group,EG,Enterprise,Retail,New Cairo,T01,2020-08-20
+35,CUST-00035,Sinai Education Enterprises,EG,Enterprise,Construction,Giza,T01,2022-03-30
+36,CUST-00036,Horus Hospitality Trading,EG,Enterprise,Logistics,New Cairo,T01,2020-12-06
+37,CUST-00037,Memphis Media Partners,EG,Enterprise,Media,Cairo,T01,2022-09-07
+38,CUST-00038,Pyramid Media Partners,EG,Enterprise,Manufacturing,New Cairo,T01,2020-07-16
+39,CUST-00039,Alex Healthcare Enterprises,EG,Enterprise,Manufacturing,New Cairo,T01,2022-06-12
+40,CUST-00040,Alex Logistics Trading,EG,Enterprise,Construction,Alexandria,T01,2023-01-04
+41,CUST-00041,Nile Financial Services Group,EG,Enterprise,Real Estate,Giza,T01,2020-01-30
+42,CUST-00042,Memphis Logistics Solutions,EG,Enterprise,Construction,Giza,T01,2022-01-06
+43,CUST-00043,Horus Healthcare Group,EG,Enterprise,Healthcare,New Cairo,T01,2020-07-27
+44,CUST-00044,Delta Government Services Co.,EG,Enterprise,Media,Cairo,T01,2022-11-08
+45,CUST-00045,Horus Energy Enterprises,EG,Enterprise,Construction,Cairo,T01,2022-11-23
+46,CUST-00046,Delta Construction Co.,EG,Enterprise,Hospitality,Alexandria,T01,2021-09-22
+47,CUST-00047,Sinai Government Services Trading,EG,Enterprise,Government Services,New Cairo,T01,2023-08-05
+48,CUST-00048,Alex Government Services Holding,EG,Enterprise,Education,Cairo,T01,2021-01-23
+49,CUST-00049,Alex Healthcare Group,EG,Enterprise,Financial Services,Cairo,T01,2021-04-04
+50,CUST-00050,Nile Logistics Trading,EG,Enterprise,Hospitality,New Cairo,T01,2022-11-02
+51,CUST-00051,Lotus Real Estate Holding,EG,Enterprise,Retail,Cairo,T01,2019-08-18
+52,CUST-00052,Horus Energy Holding,EG,Enterprise,Healthcare,Alexandria,T01,2023-05-02
+53,CUST-00053,Lotus Manufacturing Partners,EG,Enterprise,Government Services,Cairo,T01,2021-05-09
+54,CUST-00054,Alex Construction Trading,EG,Enterprise,Construction,Cairo,T01,2023-07-31
+55,CUST-00055,Pyramid Hospitality Solutions,EG,Enterprise,Government Services,Cairo,T01,2021-09-08
+56,CUST-00056,Sinai Healthcare Solutions,EG,Enterprise,Real Estate,Alexandria,T01,2020-09-01
+57,CUST-00057,Horus Manufacturing Services,EG,Enterprise,Education,New Cairo,T01,2021-09-19
+58,CUST-00058,Sinai Education Partners,EG,Enterprise,Retail,Alexandria,T01,2022-09-02
+59,CUST-00059,Sinai Logistics Holding,EG,Enterprise,Education,Giza,T01,2020-10-06
+60,CUST-00060,Horus Logistics Enterprises,EG,Enterprise,Retail,Giza,T01,2019-06-08
+61,CUST-00061,Memphis Energy Enterprises,EG,Enterprise,Construction,Giza,T01,2020-09-01
+62,CUST-00062,Alex Energy Co.,EG,Enterprise,Energy,New Cairo,T01,2023-06-23
+63,CUST-00063,Alex Energy Enterprises,EG,Enterprise,Hospitality,New Cairo,T01,2021-12-02
+64,CUST-00064,Alex Manufacturing Group,EG,Enterprise,Media,Giza,T01,2020-08-11
+65,CUST-00065,Pyramid Real Estate Group,EG,Enterprise,Energy,Giza,T01,2023-05-07
+66,CUST-00066,Alex Logistics Co.,EG,Enterprise,Media,Cairo,T01,2019-09-23
+67,CUST-00067,Memphis Hospitality Solutions,EG,Enterprise,Hospitality,Giza,T01,2019-01-02
+68,CUST-00068,Horus Retail Holding,EG,Enterprise,Manufacturing,Giza,T01,2022-09-26
+69,CUST-00069,Nile Hospitality Group,EG,Enterprise,Financial Services,Alexandria,T01,2019-05-13
+70,CUST-00070,Memphis Government Services Group,EG,Enterprise,Education,Giza,T01,2019-08-10
+71,CUST-00071,Pyramid Government Services Partners,EG,SME,Energy,Giza,T02,2019-07-05
+72,CUST-00072,Horus Financial Services Holding,EG,SME,Logistics,Alexandria,T02,2020-07-09
+73,CUST-00073,Lotus Financial Services Group,EG,SME,Energy,Giza,T02,2019-12-14
+74,CUST-00074,Memphis Government Services Co.,EG,SME,Hospitality,New Cairo,T02,2022-08-14
+75,CUST-00075,Sinai Real Estate Co.,EG,SME,Hospitality,Alexandria,T02,2023-06-26
+76,CUST-00076,Alex Real Estate Enterprises,EG,SME,Retail,Giza,T02,2021-07-29
+77,CUST-00077,Nile Construction Services,EG,SME,Logistics,Giza,T02,2020-01-13
+78,CUST-00078,Nile Energy Group,EG,SME,Government Services,Cairo,T02,2021-01-24
+79,CUST-00079,Nile Healthcare Services,EG,SME,Real Estate,Giza,T02,2020-10-08
+80,CUST-00080,Horus Construction Services,EG,SME,Logistics,Cairo,T02,2021-08-20
+81,CUST-00081,Nile Media Solutions,EG,SME,Government Services,Alexandria,T02,2023-08-15
+82,CUST-00082,Sinai Financial Services Co.,EG,SME,Media,Cairo,T02,2022-03-24
+83,CUST-00083,Memphis Financial Services Enterprises,EG,SME,Logistics,Cairo,T02,2023-06-28
+84,CUST-00084,Memphis Manufacturing Services,EG,SME,Education,Giza,T02,2021-04-15
+85,CUST-00085,Memphis Healthcare Holding,EG,SME,Hospitality,New Cairo,T02,2023-06-23
+86,CUST-00086,Horus Education Partners,EG,SME,Financial Services,Cairo,T02,2019-11-12
+87,CUST-00087,Alex Financial Services Trading,EG,SME,Financial Services,New Cairo,T02,2020-11-17
+88,CUST-00088,Nile Construction Partners,EG,SME,Construction,Cairo,T02,2021-01-11
+89,CUST-00089,Pyramid Logistics Enterprises,EG,SME,Real Estate,New Cairo,T02,2023-03-07
+90,CUST-00090,Memphis Energy Trading,EG,SME,Construction,Cairo,T02,2021-06-30
+91,CUST-00091,Memphis Real Estate Solutions,EG,SME,Energy,Giza,T02,2020-11-24
+92,CUST-00092,Horus Education Solutions,EG,SME,Logistics,Giza,T02,2020-03-30
+93,CUST-00093,Lotus Financial Services Solutions,EG,SME,Logistics,Giza,T02,2020-12-21
+94,CUST-00094,Nile Real Estate Services,EG,SME,Healthcare,New Cairo,T02,2020-10-20
+95,CUST-00095,Memphis Media Solutions,EG,SME,Media,New Cairo,T02,2022-05-09
+96,CUST-00096,Alex Construction Solutions,EG,SME,Energy,Cairo,T02,2021-01-21
+97,CUST-00097,Pyramid Education Trading,EG,SME,Media,Giza,T02,2022-10-25
+98,CUST-00098,Lotus Construction Group,EG,SME,Education,Alexandria,T02,2019-01-14
+99,CUST-00099,Memphis Real Estate Services,EG,SME,Logistics,Alexandria,T02,2021-06-03
+100,CUST-00100,Memphis Manufacturing Holding,EG,SME,Energy,Cairo,T02,2019-11-30
+101,CUST-00101,Memphis Media Trading,EG,SME,Energy,Giza,T02,2019-03-14
+102,CUST-00102,Lotus Manufacturing Trading,EG,SME,Education,Cairo,T02,2023-07-08
+103,CUST-00103,Alex Logistics Solutions,EG,SME,Real Estate,Giza,T02,2019-02-20
+104,CUST-00104,Sinai Construction Partners,EG,SME,Healthcare,New Cairo,T02,2023-11-24
+105,CUST-00105,Alex Real Estate Holding,EG,SME,Hospitality,Cairo,T02,2019-04-14
+106,CUST-00106,Sinai Real Estate Group,EG,SME,Construction,New Cairo,T02,2022-10-10
+107,CUST-00107,Delta Media Services,EG,SME,Logistics,New Cairo,T02,2021-01-19
+108,CUST-00108,Horus Government Services Partners,EG,SME,Retail,Giza,T02,2020-11-06
+109,CUST-00109,Delta Financial Services Trading,EG,SME,Education,Cairo,T02,2023-01-04
+110,CUST-00110,Memphis Construction Holding,EG,SME,Real Estate,Cairo,T02,2022-12-04
+111,CUST-00111,Delta Financial Services Enterprises,EG,SME,Energy,Alexandria,T02,2021-11-13
+112,CUST-00112,Horus Real Estate Services,EG,SME,Logistics,Cairo,T02,2021-03-05
+113,CUST-00113,Delta Energy Co.,EG,SME,Media,New Cairo,T02,2020-11-26
+114,CUST-00114,Memphis Media Enterprises,EG,SME,Government Services,Alexandria,T02,2023-05-01
+115,CUST-00115,Memphis Government Services Services,EG,SME,Government Services,Giza,T02,2022-11-26
+116,CUST-00116,Horus Media Holding,EG,SME,Manufacturing,Alexandria,T02,2020-11-17
+117,CUST-00117,Memphis Logistics Enterprises,EG,SME,Media,Cairo,T02,2019-02-27
+118,CUST-00118,Horus Logistics Trading,EG,SME,Energy,Alexandria,T02,2019-12-11
+119,CUST-00119,Alex Government Services Enterprises,EG,SME,Logistics,Cairo,T02,2019-02-16
+120,CUST-00120,Memphis Retail Group,EG,SME,Construction,Cairo,T02,2019-06-03
+121,CUST-00121,Pyramid Media Holding,EG,SME,Retail,Giza,T02,2023-03-25
+122,CUST-00122,Sinai Retail Partners,EG,SME,Healthcare,Cairo,T02,2021-02-03
+123,CUST-00123,Alex Construction Partners,EG,SME,Hospitality,Giza,T02,2023-08-19
+124,CUST-00124,Lotus Hospitality Solutions,EG,SME,Government Services,Cairo,T02,2019-07-26
+125,CUST-00125,Delta Retail Services,EG,SME,Retail,Cairo,T02,2020-04-17
+126,CUST-00126,Memphis Hospitality Partners,EG,SME,Financial Services,Giza,T02,2021-12-20
+127,CUST-00127,Memphis Construction Solutions,EG,SME,Financial Services,Alexandria,T02,2023-04-24
+128,CUST-00128,Lotus Hospitality Partners,EG,SME,Manufacturing,Cairo,T02,2019-06-25
+129,CUST-00129,Pyramid Hospitality Co.,EG,SME,Government Services,Alexandria,T02,2019-04-05
+130,CUST-00130,Alex Media Services,EG,SME,Government Services,Cairo,T02,2021-05-08
+131,CUST-00131,Sinai Logistics Co.,EG,SME,Education,Cairo,T02,2019-01-10
+132,CUST-00132,Lotus Hospitality Co.,EG,SME,Energy,Giza,T02,2021-04-18
+133,CUST-00133,Nile Logistics Solutions,EG,SME,Manufacturing,Cairo,T02,2020-12-17
+134,CUST-00134,Nile Government Services Group,EG,SME,Government Services,New Cairo,T02,2022-01-14
+135,CUST-00135,Lotus Government Services Group,EG,SME,Financial Services,Cairo,T02,2019-10-03
+136,CUST-00136,Delta Education Services,EG,SME,Construction,Alexandria,T02,2021-05-05
+137,CUST-00137,Horus Government Services Trading,EG,SME,Government Services,Giza,T02,2021-01-16
+138,CUST-00138,Pyramid Financial Services Co.,EG,SME,Manufacturing,Alexandria,T02,2019-02-07
+139,CUST-00139,Delta Retail Trading,EG,SME,Government Services,Alexandria,T02,2019-10-24
+140,CUST-00140,Nile Media Partners,EG,SME,Financial Services,Alexandria,T02,2023-01-29
+141,CUST-00141,Pyramid Media Co.,EG,SME,Real Estate,Alexandria,T02,2021-04-19
+142,CUST-00142,Pyramid Healthcare Enterprises,EG,SME,Government Services,Giza,T02,2021-08-05
+143,CUST-00143,Sinai Real Estate Solutions,EG,SME,Education,Cairo,T02,2019-09-10
+144,CUST-00144,Sinai Real Estate Partners,EG,SME,Hospitality,New Cairo,T02,2022-10-27
+145,CUST-00145,Pyramid Hospitality Trading,EG,SME,Education,Giza,T02,2023-02-03
+146,CUST-00146,Lotus Government Services Trading,EG,SME,Education,Alexandria,T02,2021-03-27
+147,CUST-00147,Nile Retail Holding,EG,SME,Hospitality,Cairo,T02,2021-06-04
+148,CUST-00148,Sinai Construction Group,EG,SME,Education,Cairo,T02,2019-10-12
+149,CUST-00149,Lotus Logistics Trading,EG,SME,Financial Services,Alexandria,T02,2019-08-17
+150,CUST-00150,Lotus Real Estate Group,EG,SME,Real Estate,New Cairo,T02,2020-11-28
+151,CUST-00151,Pyramid Education Enterprises,EG,SME,Manufacturing,Cairo,T02,2022-12-16
+152,CUST-00152,Alex Hospitality Services,EG,SME,Real Estate,Alexandria,T02,2022-02-14
+153,CUST-00153,Memphis Manufacturing Partners,EG,SME,Real Estate,Giza,T02,2020-07-07
+154,CUST-00154,Sinai Energy Enterprises,EG,SME,Energy,Cairo,T02,2022-12-20
+155,CUST-00155,Nile Construction Co.,EG,SME,Financial Services,Cairo,T02,2020-12-24
+156,CUST-00156,Alex Energy Partners,EG,SME,Financial Services,New Cairo,T02,2023-09-28
+157,CUST-00157,Horus Real Estate Group,EG,SME,Financial Services,Cairo,T02,2023-01-17
+158,CUST-00158,Nile Education Services,EG,SME,Construction,Giza,T02,2022-01-23
+159,CUST-00159,Pyramid Hospitality Services,EG,SME,Government Services,New Cairo,T02,2023-09-26
+160,CUST-00160,Memphis Education Solutions,EG,SME,Retail,Giza,T02,2020-12-14
+161,CUST-00161,Sinai Real Estate Enterprises,EG,SME,Energy,Giza,T02,2019-07-13
+162,CUST-00162,Alex Government Services Group,EG,SME,Media,Giza,T02,2021-08-05
+163,CUST-00163,Pyramid Manufacturing Trading,EG,SME,Real Estate,Giza,T02,2019-01-17
+164,CUST-00164,Sinai Media Co.,EG,SME,Financial Services,Cairo,T02,2020-11-21
+165,CUST-00165,Horus Retail Solutions,EG,SME,Manufacturing,Cairo,T02,2021-11-09
+166,CUST-00166,Lotus Real Estate Partners,EG,SME,Hospitality,New Cairo,T02,2023-04-14
+167,CUST-00167,Alex Retail Co.,EG,SME,Government Services,Giza,T02,2023-08-01
+168,CUST-00168,Delta Government Services Trading,EG,SME,Energy,Giza,T02,2021-05-04
+169,CUST-00169,Lotus Government Services Holding,EG,SME,Logistics,New Cairo,T02,2019-12-04
+170,CUST-00170,Memphis Healthcare Enterprises,EG,SME,Healthcare,Alexandria,T02,2019-02-11
+171,CUST-00171,Lotus Healthcare Services,EG,SME,Real Estate,Giza,T02,2021-04-28
+172,CUST-00172,Nile Education Group,EG,SME,Hospitality,Alexandria,T02,2023-02-07
+173,CUST-00173,Alex Government Services Services,EG,SME,Education,New Cairo,T02,2019-02-04
+174,CUST-00174,Lotus Healthcare Solutions,EG,SME,Education,Cairo,T02,2023-05-25
+175,CUST-00175,Delta Construction Group,EG,SME,Retail,Giza,T02,2022-04-17
+176,CUST-00176,Lotus Government Services Solutions,EG,SME,Government Services,Alexandria,T02,2022-10-09
+177,CUST-00177,Alex Retail Services,EG,SME,Education,Cairo,T02,2020-11-26
+178,CUST-00178,Memphis Government Services Enterprises,EG,SME,Government Services,Alexandria,T02,2022-02-09
+179,CUST-00179,Sinai Construction Services,EG,SME,Construction,Cairo,T02,2021-09-13
+180,CUST-00180,Delta Construction Solutions,EG,SME,Education,Alexandria,T02,2021-12-16
+181,CUST-00181,Horus Financial Services Co.,EG,SME,Government Services,New Cairo,T02,2019-04-14
+182,CUST-00182,Memphis Financial Services Partners,EG,SME,Retail,Alexandria,T02,2019-06-14
+183,CUST-00183,Lotus Media Co.,EG,SME,Manufacturing,Alexandria,T02,2019-09-25
+184,CUST-00184,Nile Hospitality Holding,EG,SME,Energy,Cairo,T02,2023-08-12
+185,CUST-00185,Alex Healthcare Solutions,EG,SME,Construction,Giza,T02,2023-02-22
+186,CUST-00186,Nile Government Services Solutions,EG,SME,Financial Services,Alexandria,T02,2023-10-09
+187,CUST-00187,Pyramid Real Estate Services,EG,SME,Media,Alexandria,T02,2019-03-26
+188,CUST-00188,Horus Education Holding,EG,SME,Real Estate,New Cairo,T02,2019-10-28
+189,CUST-00189,Lotus Government Services Enterprises,EG,SME,Retail,Giza,T02,2020-12-11
+190,CUST-00190,Nile Construction Enterprises,EG,SME,Education,Giza,T02,2021-06-14
+191,CUST-00191,Memphis Manufacturing Group,EG,SME,Retail,New Cairo,T02,2019-09-02
+192,CUST-00192,Sinai Energy Co.,EG,SME,Retail,Giza,T02,2023-08-21
+193,CUST-00193,Nile Financial Services Solutions,EG,SME,Hospitality,New Cairo,T02,2019-03-26
+194,CUST-00194,Memphis Education Trading,EG,SME,Real Estate,Alexandria,T02,2023-08-30
+195,CUST-00195,Delta Logistics Co.,EG,SME,Government Services,Alexandria,T02,2019-10-25
+196,CUST-00196,Lotus Retail Holding,EG,SME,Manufacturing,Giza,T02,2022-09-06
+197,CUST-00197,Pyramid Hospitality Partners,EG,SME,Manufacturing,New Cairo,T02,2022-03-19
+198,CUST-00198,Sinai Retail Enterprises,EG,SME,Energy,Alexandria,T02,2022-08-14
+199,CUST-00199,Lotus Education Group,EG,SME,Manufacturing,New Cairo,T02,2021-09-21
+200,CUST-00200,Nile Real Estate Solutions,EG,SME,Manufacturing,Alexandria,T02,2019-01-04
+201,CUST-00201,Pyramid Real Estate Trading,EG,SME,Retail,New Cairo,T02,2022-10-15
+202,CUST-00202,Alex Hospitality Holding,EG,SME,Financial Services,Cairo,T02,2022-05-17
+203,CUST-00203,Memphis Logistics Group,EG,SME,Financial Services,Giza,T02,2023-09-15
+204,CUST-00204,Memphis Hospitality Holding,EG,SME,Energy,Giza,T02,2023-08-06
+205,CUST-00205,Memphis Logistics Co.,EG,SME,Healthcare,New Cairo,T02,2020-08-20
+206,CUST-00206,Pyramid Healthcare Services,EG,SME,Education,New Cairo,T02,2023-02-13
+207,CUST-00207,Sinai Retail Co.,EG,SME,Logistics,Giza,T02,2019-01-26
+208,CUST-00208,Nile Financial Services Co.,EG,SME,Financial Services,Alexandria,T02,2023-10-02
+209,CUST-00209,Nile Media Services,EG,SME,Energy,Alexandria,T02,2019-11-28
+210,CUST-00210,Memphis Hospitality Services,EG,SME,Government Services,Giza,T02,2021-01-04
+211,CUST-00211,Horus Manufacturing Enterprises,EG,SME,Real Estate,Giza,T02,2022-03-02
+212,CUST-00212,Alex Financial Services Partners,EG,SME,Education,New Cairo,T02,2022-12-08
+213,CUST-00213,Lotus Financial Services Trading,EG,SME,Energy,Alexandria,T02,2019-09-05
+214,CUST-00214,Sinai Manufacturing Solutions,EG,SME,Education,Giza,T02,2020-04-02
+215,CUST-00215,Sinai Healthcare Enterprises,EG,SME,Hospitality,Cairo,T02,2020-09-14
+216,CUST-00216,Lotus Hospitality Holding,EG,SME,Real Estate,New Cairo,T02,2023-09-07
+217,CUST-00217,Horus Media Services,EG,SME,Logistics,Giza,T02,2021-10-21
+218,CUST-00218,Nile Government Services Services,EG,SME,Media,Giza,T02,2021-11-26
+219,CUST-00219,Nile Government Services Holding,EG,SME,Retail,Alexandria,T02,2022-02-16
+220,CUST-00220,Alex Healthcare Co.,EG,SME,Manufacturing,New Cairo,T02,2021-09-09
+221,CUST-00221,Alex Energy Trading,EG,SME,Manufacturing,New Cairo,T02,2022-06-28
+222,CUST-00222,Memphis Retail Trading,EG,SME,Manufacturing,Giza,T02,2020-06-01
+223,CUST-00223,Alex Financial Services Solutions,EG,SME,Manufacturing,Cairo,T02,2019-04-14
+224,CUST-00224,Horus Real Estate Trading,EG,SME,Energy,Alexandria,T02,2022-09-02
+225,CUST-00225,Alex Financial Services Enterprises,EG,SME,Energy,Alexandria,T02,2022-04-18
+226,CUST-00226,Nile Manufacturing Services,EG,SME,Financial Services,Cairo,T02,2021-06-01
+227,CUST-00227,Nile Manufacturing Holding,EG,SME,Media,Cairo,T02,2020-06-05
+228,CUST-00228,Delta Logistics Holding,EG,SME,Real Estate,Alexandria,T02,2022-11-02
+229,CUST-00229,Alex Real Estate Trading,EG,SME,Healthcare,Giza,T02,2022-08-23
+230,CUST-00230,Memphis Healthcare Solutions,EG,SME,Education,Cairo,T02,2020-05-27
+231,CUST-00231,Nile Financial Services Enterprises,EG,SME,Retail,Alexandria,T02,2020-10-25
+232,CUST-00232,Delta Real Estate Holding,EG,SME,Logistics,Giza,T02,2022-10-28
+233,CUST-00233,Pyramid Logistics Solutions,EG,SME,Real Estate,Cairo,T02,2019-01-09
+234,CUST-00234,Horus Retail Group,EG,SME,Manufacturing,Alexandria,T02,2021-11-26
+235,CUST-00235,Lotus Manufacturing Enterprises,EG,SME,Manufacturing,Cairo,T02,2020-12-29
+236,CUST-00236,Nile Government Services Enterprises,EG,SME,Government Services,Giza,T02,2021-02-08
+237,CUST-00237,Nile Energy Enterprises,EG,SME,Energy,Alexandria,T02,2019-09-27
+238,CUST-00238,Memphis Retail Co.,EG,SME,Financial Services,Cairo,T02,2021-10-01
+239,CUST-00239,Pyramid Education Services,EG,SME,Real Estate,Cairo,T02,2020-08-07
+240,CUST-00240,Memphis Financial Services Holding,EG,SME,Retail,New Cairo,T02,2022-05-14
+241,CUST-00241,Memphis Construction Trading,EG,SME,Real Estate,Giza,T02,2022-03-29
+242,CUST-00242,Alex Real Estate Group,EG,SME,Manufacturing,Cairo,T02,2019-12-04
+243,CUST-00243,Delta Healthcare Trading,EG,SME,Construction,Giza,T02,2019-07-08
+244,CUST-00244,Memphis Hospitality Trading,EG,SME,Construction,Cairo,T02,2020-06-16
+245,CUST-00245,Nile Retail Services,EG,SME,Hospitality,Cairo,T02,2022-08-15
+246,CUST-00246,Memphis Hospitality Enterprises,EG,SME,Retail,Alexandria,T02,2019-01-20
+247,CUST-00247,Horus Manufacturing Group,EG,SME,Energy,New Cairo,T02,2020-03-21
+248,CUST-00248,Delta Retail Holding,EG,SME,Healthcare,Cairo,T02,2023-10-03
+249,CUST-00249,Pyramid Healthcare Holding,EG,SME,Financial Services,Cairo,T02,2020-12-07
+250,CUST-00250,Nile Hospitality Partners,EG,SME,Media,Alexandria,T02,2022-11-15
+251,CUST-00251,Memphis Manufacturing Trading,EG,SME,Government Services,Cairo,T02,2020-10-18
+252,CUST-00252,Nile Education Co.,EG,SME,Healthcare,Alexandria,T02,2023-06-09
+253,CUST-00253,Memphis Government Services Holding,EG,SME,Energy,Alexandria,T02,2023-05-22
+254,CUST-00254,Delta Energy Solutions,EG,SME,Manufacturing,Cairo,T02,2019-11-28
+255,CUST-00255,Delta Real Estate Trading,EG,SME,Construction,Cairo,T02,2020-02-05
+256,CUST-00256,Sinai Government Services Services,EG,SME,Media,Alexandria,T02,2021-02-09
+257,CUST-00257,Memphis Construction Partners,EG,SME,Logistics,New Cairo,T02,2020-09-21
+258,CUST-00258,Delta Manufacturing Partners,EG,SME,Hospitality,Giza,T02,2021-06-24
+259,CUST-00259,Sinai Real Estate Trading,EG,SME,Media,New Cairo,T02,2021-07-03
+260,CUST-00260,Memphis Healthcare Trading,EG,SME,Government Services,New Cairo,T02,2020-01-07
+261,CUST-00261,Alex Retail Partners,EG,SME,Retail,Giza,T02,2022-05-02
+262,CUST-00262,Sinai Education Trading,EG,SME,Media,Alexandria,T02,2019-02-16
+263,CUST-00263,Lotus Healthcare Holding,EG,SME,Education,Cairo,T02,2022-05-06
+264,CUST-00264,Memphis Media Services,EG,SME,Government Services,Giza,T02,2021-10-01
+265,CUST-00265,Pyramid Healthcare Co.,EG,SME,Manufacturing,New Cairo,T02,2023-03-24
+266,CUST-00266,Pyramid Education Co.,EG,SME,Real Estate,Cairo,T02,2020-11-23
+267,CUST-00267,Pyramid Financial Services Enterprises,EG,SME,Education,Giza,T02,2022-07-02
+268,CUST-00268,Lotus Government Services Partners,EG,SME,Energy,New Cairo,T02,2021-11-08
+269,CUST-00269,Sinai Manufacturing Group,EG,SME,Manufacturing,Cairo,T02,2023-04-07
+270,CUST-00270,Sinai Healthcare Group,EG,SME,Manufacturing,New Cairo,T02,2021-01-13
+271,CUST-00271,Delta Manufacturing Enterprises,EG,SME,Government Services,Giza,T02,2023-02-04
+272,CUST-00272,Horus Logistics Partners,EG,SME,Financial Services,New Cairo,T02,2020-03-24
+273,CUST-00273,Pyramid Energy Services,EG,SME,Healthcare,New Cairo,T02,2022-11-24
+274,CUST-00274,Pyramid Financial Services Solutions,EG,SME,Manufacturing,New Cairo,T02,2020-10-30
+275,CUST-00275,Delta Hospitality Enterprises,EG,SME,Healthcare,Cairo,T02,2021-12-03
+276,CUST-00276,Pyramid Real Estate Solutions,EG,SME,Logistics,Alexandria,T02,2019-11-12
+277,CUST-00277,Pyramid Manufacturing Partners,EG,SME,Healthcare,Alexandria,T02,2022-05-19
+278,CUST-00278,Memphis Healthcare Partners,EG,SME,Construction,New Cairo,T02,2023-03-19
+279,CUST-00279,Memphis Logistics Holding,EG,SME,Financial Services,Giza,T02,2022-05-24
+280,CUST-00280,Delta Financial Services Partners,EG,SME,Real Estate,Cairo,T02,2020-09-30
+281,CUST-00281,Delta Real Estate Partners,EG,SME,Healthcare,Giza,T02,2023-06-28
+282,CUST-00282,Nile Construction Group,EG,SME,Healthcare,Cairo,T02,2019-03-06
+283,CUST-00283,Sinai Hospitality Enterprises,EG,SME,Financial Services,Cairo,T02,2019-08-07
+284,CUST-00284,Pyramid Retail Services,EG,SME,Hospitality,New Cairo,T02,2023-08-04
+285,CUST-00285,Memphis Construction Enterprises,EG,SME,Retail,Alexandria,T02,2019-05-30
+286,CUST-00286,Memphis Education Enterprises,EG,SME,Financial Services,Alexandria,T02,2019-07-24
+287,CUST-00287,Memphis Financial Services Services,EG,SME,Manufacturing,New Cairo,T02,2023-01-26
+288,CUST-00288,Nile Real Estate Enterprises,EG,SME,Education,Cairo,T02,2021-04-27
+289,CUST-00289,Nile Logistics Holding,EG,SME,Real Estate,Cairo,T02,2020-12-28
+290,CUST-00290,Pyramid Education Holding,EG,SME,Retail,Cairo,T02,2021-07-13
+291,CUST-00291,Delta Retail Enterprises,EG,SME,Education,Giza,T02,2022-05-23
+292,CUST-00292,Delta Healthcare Services,EG,SME,Logistics,Cairo,T02,2022-09-21
+293,CUST-00293,Lotus Media Trading,EG,SME,Media,Giza,T02,2019-08-09
+294,CUST-00294,Alex Energy Solutions,EG,SME,Media,New Cairo,T02,2023-01-19
+295,CUST-00295,Sinai Energy Partners,EG,SME,Hospitality,Giza,T02,2020-06-30
+296,CUST-00296,Pyramid Manufacturing Holding,EG,SME,Retail,Cairo,T02,2021-06-21
+297,CUST-00297,Pyramid Logistics Group,EG,SME,Media,Alexandria,T02,2020-09-29
+298,CUST-00298,Alex Education Group,EG,SME,Logistics,New Cairo,T02,2021-05-22
+299,CUST-00299,Horus Real Estate Solutions,EG,SME,Real Estate,Giza,T02,2020-12-17
+300,CUST-00300,Nile Energy Trading,EG,SME,Energy,New Cairo,T02,2020-06-18
+301,CUST-00301,Lotus Hospitality Services,EG,SME,Healthcare,Cairo,T02,2021-06-13
+302,CUST-00302,Lotus Manufacturing Co.,EG,SME,Construction,Giza,T02,2023-07-31
+303,CUST-00303,Alex Logistics Enterprises,EG,SME,Real Estate,Cairo,T02,2021-08-16
+304,CUST-00304,Sinai Energy Solutions,EG,SME,Healthcare,Alexandria,T02,2019-03-28
+305,CUST-00305,Lotus Healthcare Co.,EG,SME,Financial Services,Cairo,T02,2020-04-10
+306,CUST-00306,Alex Healthcare Trading,EG,SME,Construction,Alexandria,T02,2020-03-06
+307,CUST-00307,Alex Construction Holding,EG,SME,Hospitality,Giza,T02,2022-08-01
+308,CUST-00308,Memphis Government Services Solutions,EG,SME,Retail,New Cairo,T02,2021-04-08
+309,CUST-00309,Pyramid Manufacturing Group,EG,SME,Government Services,Giza,T02,2019-11-04
+310,CUST-00310,Alex Media Co.,EG,SME,Government Services,Alexandria,T02,2023-01-12
+311,CUST-00311,Alex Media Partners,EG,SME,Real Estate,Giza,T02,2023-11-28
+312,CUST-00312,Lotus Logistics Holding,EG,SME,Hospitality,Cairo,T02,2022-09-22
+313,CUST-00313,Alex Media Group,EG,SME,Financial Services,Giza,T02,2022-06-13
+314,CUST-00314,Delta Hospitality Solutions,EG,SME,Real Estate,New Cairo,T02,2019-07-04
+315,CUST-00315,Alex Healthcare Partners,EG,SME,Hospitality,Cairo,T02,2019-09-06
+316,CUST-00316,Horus Logistics Services,EG,SME,Construction,Giza,T02,2020-12-24
+317,CUST-00317,Lotus Education Trading,EG,SME,Financial Services,Cairo,T02,2019-03-29
+318,CUST-00318,Lotus Energy Group,EG,SME,Manufacturing,Giza,T02,2023-09-13
+319,CUST-00319,Lotus Logistics Services,EG,SME,Financial Services,Giza,T02,2023-07-28
+320,CUST-00320,Alex Education Trading,EG,SME,Education,Giza,T02,2020-01-15
+321,CUST-00321,Alex Manufacturing Solutions,EG,SME,Retail,Giza,T02,2021-06-21
+322,CUST-00322,Horus Media Co.,EG,SME,Financial Services,New Cairo,T02,2020-04-27
+323,CUST-00323,Delta Construction Services,EG,SME,Construction,Cairo,T02,2021-01-12
+324,CUST-00324,Memphis Real Estate Partners,EG,SME,Education,Alexandria,T02,2022-10-16
+325,CUST-00325,Delta Manufacturing Solutions,EG,SME,Energy,Alexandria,T02,2020-04-04
+326,CUST-00326,Sinai Retail Trading,EG,SME,Healthcare,Giza,T02,2019-11-05
+327,CUST-00327,Memphis Real Estate Holding,EG,SME,Manufacturing,New Cairo,T02,2023-02-08
+328,CUST-00328,Lotus Retail Co.,EG,SME,Retail,New Cairo,T02,2020-10-16
+329,CUST-00329,Nile Logistics Enterprises,EG,SME,Retail,New Cairo,T02,2023-08-18
+330,CUST-00330,Pyramid Healthcare Group,EG,SME,Hospitality,Cairo,T02,2019-06-21
+331,CUST-00331,Alex IT Distribution,EG,Partner,IT Channel,Cairo,T03,2020-09-12
+332,CUST-00332,Memphis Networks LLC,EG,Partner,IT Channel,Cairo,T03,2021-04-11
+333,CUST-00333,Memphis IT Distribution,EG,Partner,IT Channel,Cairo,T03,2022-04-02
+334,CUST-00334,Delta Systems Integrator,EG,Partner,IT Channel,New Cairo,T03,2023-06-28
+335,CUST-00335,Sinai Systems Integrator,EG,Partner,IT Channel,Alexandria,T03,2020-02-06
+336,CUST-00336,Delta IT Distribution,EG,Partner,IT Channel,Cairo,T03,2023-08-28
+337,CUST-00337,Pyramid IT Distribution,EG,Partner,IT Channel,Alexandria,T03,2022-01-18
+338,CUST-00338,Nile Tech Resellers,EG,Partner,IT Channel,Alexandria,T03,2022-10-27
+339,CUST-00339,Sinai Digital Partners,EG,Partner,IT Channel,New Cairo,T03,2019-02-18
+340,CUST-00340,Pyramid Networks LLC,EG,Partner,IT Channel,Alexandria,T03,2023-01-29
+341,CUST-00341,Horus Systems Integrator,EG,Partner,IT Channel,Alexandria,T03,2020-02-05
+342,CUST-00342,Sinai Networks LLC,EG,Partner,IT Channel,Alexandria,T03,2019-06-20
+343,CUST-00343,Lotus Tech Resellers,EG,Partner,IT Channel,New Cairo,T03,2020-10-01
+344,CUST-00344,Alex Systems Integrator,EG,Partner,IT Channel,Cairo,T03,2022-09-09
+345,CUST-00345,Lotus Digital Partners,EG,Partner,IT Channel,Giza,T03,2021-11-30
+346,CUST-00346,Memphis Systems Integrator,EG,Partner,IT Channel,Giza,T03,2019-08-15
+347,CUST-00347,Lotus Networks LLC,EG,Partner,IT Channel,New Cairo,T03,2021-04-01
+348,CUST-00348,Nile Digital Partners,EG,Partner,IT Channel,Giza,T03,2021-09-05
+349,CUST-00349,Delta Tech Resellers,EG,Partner,IT Channel,Giza,T03,2021-12-18
+350,CUST-00350,Horus IT Distribution,EG,Partner,IT Channel,Giza,T03,2021-04-24
+351,CUST-00351,Pyramid Systems Integrator,EG,Partner,IT Channel,New Cairo,T03,2023-09-24
+352,CUST-00352,Horus Digital Partners,EG,Partner,IT Channel,New Cairo,T03,2023-11-02
+353,CUST-00353,Delta Networks LLC,EG,Partner,IT Channel,Cairo,T03,2019-02-14
+354,CUST-00354,Horus Tech Resellers,EG,Partner,IT Channel,New Cairo,T03,2021-07-09
+355,CUST-00355,Nile Networks LLC,EG,Partner,IT Channel,Cairo,T03,2022-09-04
+356,CUST-00356,Alex Tech Resellers,EG,Partner,IT Channel,Alexandria,T03,2023-11-09
+357,CUST-00357,Sinai IT Distribution,EG,Partner,IT Channel,Cairo,T03,2023-10-30
+358,CUST-00358,Memphis Tech Resellers,EG,Partner,IT Channel,New Cairo,T03,2021-05-05
+359,CUST-00359,Alex Networks LLC,EG,Partner,IT Channel,Cairo,T03,2021-11-22
+360,CUST-00360,Sinai Tech Resellers,EG,Partner,IT Channel,Cairo,T03,2022-01-31
+361,CUST-00361,Alex Digital Partners,EG,Partner,IT Channel,New Cairo,T03,2019-12-01
+362,CUST-00362,Nile IT Distribution,EG,Partner,IT Channel,New Cairo,T03,2023-06-11
+363,CUST-00363,Horus Networks LLC,EG,Partner,IT Channel,Cairo,T03,2022-06-16
+364,CUST-00364,Lotus IT Distribution,EG,Partner,IT Channel,Cairo,T03,2019-10-29
+365,CUST-00365,Nile Systems Integrator,EG,Partner,IT Channel,Alexandria,T03,2023-08-05
+366,CUST-00366,Delta Digital Partners,EG,Partner,IT Channel,New Cairo,T03,2021-09-12
+367,CUST-00367,Pyramid Digital Partners,EG,Partner,IT Channel,Giza,T03,2020-12-07
+368,CUST-00368,Lotus Systems Integrator,EG,Partner,IT Channel,Giza,T03,2020-11-08
+369,CUST-00369,Pyramid Tech Resellers,EG,Partner,IT Channel,Giza,T03,2023-11-10
+370,CUST-00370,Memphis Digital Partners,EG,Partner,IT Channel,Alexandria,T03,2020-04-14
+371,CUST-00371,Nile Networks LLC 371,EG,Partner,IT Channel,Alexandria,T03,2022-08-10
+372,CUST-00372,Sinai Networks LLC 372,EG,Partner,IT Channel,Giza,T03,2023-11-25
+373,CUST-00373,Horus IT Distribution 373,EG,Partner,IT Channel,Giza,T03,2022-08-25
+374,CUST-00374,Sinai Networks LLC 374,EG,Partner,IT Channel,Giza,T03,2023-08-23
+375,CUST-00375,Pyramid Digital Partners 375,EG,Partner,IT Channel,New Cairo,T03,2022-12-20
+376,CUST-00376,Tuwaiq Energy Solutions,SA,Enterprise,Government Services,Jeddah,T04,2022-05-11
+377,CUST-00377,Hejaz Government Services Group,SA,Enterprise,Logistics,Khobar,T04,2022-04-18
+378,CUST-00378,Asir Healthcare Trading,SA,Enterprise,Real Estate,Khobar,T04,2022-01-07
+379,CUST-00379,Najd Government Services Holding,SA,Enterprise,Manufacturing,Khobar,T04,2023-07-13
+380,CUST-00380,Najd Hospitality Services,SA,Enterprise,Construction,Dammam,T04,2023-05-12
+381,CUST-00381,Falcon Construction Partners,SA,Enterprise,Real Estate,Khobar,T04,2023-07-26
+382,CUST-00382,Qassim Logistics Holding,SA,Enterprise,Construction,Dammam,T04,2019-03-10
+383,CUST-00383,Oasis Energy Partners,SA,Enterprise,Media,Dammam,T04,2023-10-26
+384,CUST-00384,Dune Retail Holding,SA,Enterprise,Real Estate,Riyadh,T04,2022-04-12
+385,CUST-00385,Tuwaiq Logistics Services,SA,Enterprise,Retail,Riyadh,T04,2022-08-29
+386,CUST-00386,Hejaz Construction Group,SA,Enterprise,Manufacturing,Dammam,T04,2019-06-12
+387,CUST-00387,Asir Retail Solutions,SA,Enterprise,Hospitality,Dammam,T04,2020-07-28
+388,CUST-00388,Dune Media Enterprises,SA,Enterprise,Manufacturing,Khobar,T04,2023-03-18
+389,CUST-00389,Oasis Retail Holding,SA,Enterprise,Real Estate,Dammam,T04,2023-10-11
+390,CUST-00390,Falcon Hospitality Partners,SA,Enterprise,Retail,Khobar,T04,2022-06-17
+391,CUST-00391,Tuwaiq Healthcare Co.,SA,Enterprise,Retail,Khobar,T04,2020-05-31
+392,CUST-00392,Asir Healthcare Enterprises,SA,Enterprise,Financial Services,Khobar,T04,2022-11-25
+393,CUST-00393,Falcon Construction Holding,SA,Enterprise,Logistics,Jeddah,T04,2023-05-31
+394,CUST-00394,Oasis Manufacturing Co.,SA,Enterprise,Manufacturing,Riyadh,T04,2020-08-08
+395,CUST-00395,Falcon Government Services Holding,SA,Enterprise,Real Estate,Khobar,T04,2020-05-12
+396,CUST-00396,Qassim Healthcare Trading,SA,Enterprise,Energy,Riyadh,T04,2019-04-05
+397,CUST-00397,Tuwaiq Energy Group,SA,Enterprise,Real Estate,Riyadh,T04,2022-12-13
+398,CUST-00398,Dune Construction Services,SA,Enterprise,Real Estate,Riyadh,T04,2019-03-22
+399,CUST-00399,Qassim Healthcare Services,SA,Enterprise,Construction,Riyadh,T04,2019-09-29
+400,CUST-00400,Oasis Manufacturing Group,SA,Enterprise,Real Estate,Riyadh,T04,2023-09-19
+401,CUST-00401,Oasis Construction Trading,SA,Enterprise,Construction,Riyadh,T04,2022-10-12
+402,CUST-00402,Dune Manufacturing Holding,SA,Enterprise,Manufacturing,Khobar,T04,2021-02-27
+403,CUST-00403,Dune Logistics Group,SA,Enterprise,Manufacturing,Riyadh,T04,2023-08-08
+404,CUST-00404,Falcon Logistics Co.,SA,Enterprise,Real Estate,Khobar,T04,2022-06-22
+405,CUST-00405,Tuwaiq Media Solutions,SA,Enterprise,Healthcare,Khobar,T04,2021-11-14
+406,CUST-00406,Falcon Logistics Partners,SA,Enterprise,Construction,Dammam,T04,2019-07-16
+407,CUST-00407,Hejaz Logistics Co.,SA,Enterprise,Retail,Dammam,T04,2020-04-21
+408,CUST-00408,Oasis Education Co.,SA,Enterprise,Construction,Riyadh,T04,2021-05-09
+409,CUST-00409,Falcon Retail Partners,SA,Enterprise,Energy,Khobar,T04,2019-07-18
+410,CUST-00410,Najd Education Partners,SA,Enterprise,Financial Services,Riyadh,T04,2019-03-07
+411,CUST-00411,Najd Hospitality Enterprises,SA,Enterprise,Logistics,Khobar,T04,2019-12-25
+412,CUST-00412,Oasis Retail Enterprises,SA,Enterprise,Energy,Riyadh,T04,2021-01-29
+413,CUST-00413,Dune Logistics Services,SA,Enterprise,Construction,Jeddah,T04,2019-01-24
+414,CUST-00414,Qassim Manufacturing Holding,SA,Enterprise,Government Services,Khobar,T04,2023-05-05
+415,CUST-00415,Tuwaiq Logistics Partners,SA,Enterprise,Real Estate,Riyadh,T04,2019-06-19
+416,CUST-00416,Oasis Retail Co.,SA,Enterprise,Healthcare,Dammam,T04,2022-06-04
+417,CUST-00417,Falcon Construction Co.,SA,Enterprise,Energy,Khobar,T04,2022-05-10
+418,CUST-00418,Asir Energy Holding,SA,Enterprise,Retail,Dammam,T04,2021-02-05
+419,CUST-00419,Qassim Media Holding,SA,Enterprise,Media,Dammam,T04,2019-12-09
+420,CUST-00420,Asir Media Enterprises,SA,Enterprise,Energy,Dammam,T04,2021-07-17
+421,CUST-00421,Oasis Financial Services Co.,SA,Enterprise,Government Services,Riyadh,T04,2021-07-15
+422,CUST-00422,Tuwaiq Financial Services Group,SA,Enterprise,Hospitality,Dammam,T04,2021-04-15
+423,CUST-00423,Tuwaiq Real Estate Partners,SA,Enterprise,Retail,Jeddah,T04,2023-02-22
+424,CUST-00424,Oasis Logistics Group,SA,Enterprise,Hospitality,Dammam,T04,2022-05-27
+425,CUST-00425,Tuwaiq Energy Partners,SA,Enterprise,Logistics,Dammam,T04,2021-12-06
+426,CUST-00426,Najd Education Trading,SA,Enterprise,Manufacturing,Khobar,T04,2023-10-03
+427,CUST-00427,Oasis Healthcare Solutions,SA,Enterprise,Education,Riyadh,T04,2020-02-26
+428,CUST-00428,Qassim Logistics Services,SA,Enterprise,Construction,Dammam,T04,2019-08-04
+429,CUST-00429,Dune Construction Group,SA,Enterprise,Financial Services,Dammam,T04,2022-02-05
+430,CUST-00430,Hejaz Media Solutions,SA,Enterprise,Media,Riyadh,T04,2020-08-27
+431,CUST-00431,Najd Education Co.,SA,Enterprise,Logistics,Jeddah,T04,2021-08-18
+432,CUST-00432,Qassim Financial Services Co.,SA,Enterprise,Energy,Khobar,T04,2022-04-03
+433,CUST-00433,Qassim Retail Services,SA,Enterprise,Media,Dammam,T04,2023-09-22
+434,CUST-00434,Tuwaiq Energy Enterprises,SA,Enterprise,Logistics,Jeddah,T04,2021-01-30
+435,CUST-00435,Hejaz Media Group,SA,Enterprise,Government Services,Khobar,T04,2019-09-14
+436,CUST-00436,Falcon Real Estate Trading,SA,Enterprise,Financial Services,Khobar,T04,2019-11-18
+437,CUST-00437,Asir Hospitality Services,SA,Enterprise,Education,Jeddah,T04,2019-06-14
+438,CUST-00438,Oasis Healthcare Trading,SA,Enterprise,Healthcare,Jeddah,T04,2019-12-27
+439,CUST-00439,Qassim Retail Co.,SA,Enterprise,Real Estate,Khobar,T04,2020-05-30
+440,CUST-00440,Oasis Healthcare Group,SA,Enterprise,Government Services,Dammam,T04,2019-10-12
+441,CUST-00441,Falcon Hospitality Services,SA,Enterprise,Construction,Jeddah,T04,2020-03-21
+442,CUST-00442,Falcon Healthcare Services,SA,Enterprise,Construction,Khobar,T04,2022-05-15
+443,CUST-00443,Qassim Hospitality Solutions,SA,Enterprise,Financial Services,Jeddah,T04,2022-07-08
+444,CUST-00444,Dune Hospitality Solutions,SA,Enterprise,Government Services,Jeddah,T04,2019-03-22
+445,CUST-00445,Asir Media Partners,SA,Enterprise,Financial Services,Khobar,T04,2022-09-05
+446,CUST-00446,Oasis Logistics Services,SA,SME,Government Services,Jeddah,T05,2020-03-02
+447,CUST-00447,Asir Financial Services Trading,SA,SME,Manufacturing,Khobar,T05,2022-05-03
+448,CUST-00448,Oasis Construction Group,SA,SME,Manufacturing,Khobar,T05,2023-09-03
+449,CUST-00449,Oasis Manufacturing Services,SA,SME,Hospitality,Dammam,T05,2020-05-29
+450,CUST-00450,Qassim Real Estate Partners,SA,SME,Financial Services,Dammam,T05,2021-04-04
+451,CUST-00451,Najd Manufacturing Trading,SA,SME,Manufacturing,Jeddah,T05,2021-10-24
+452,CUST-00452,Najd Media Solutions,SA,SME,Healthcare,Dammam,T05,2019-03-23
+453,CUST-00453,Falcon Education Solutions,SA,SME,Energy,Jeddah,T05,2023-09-15
+454,CUST-00454,Hejaz Financial Services Solutions,SA,SME,Manufacturing,Jeddah,T05,2022-07-07
+455,CUST-00455,Falcon Energy Co.,SA,SME,Energy,Khobar,T05,2020-07-21
+456,CUST-00456,Falcon Hospitality Group,SA,SME,Logistics,Jeddah,T05,2021-02-14
+457,CUST-00457,Najd Education Holding,SA,SME,Retail,Dammam,T05,2019-12-25
+458,CUST-00458,Tuwaiq Logistics Enterprises,SA,SME,Retail,Dammam,T05,2022-06-25
+459,CUST-00459,Falcon Manufacturing Holding,SA,SME,Hospitality,Riyadh,T05,2020-09-22
+460,CUST-00460,Tuwaiq Hospitality Services,SA,SME,Healthcare,Riyadh,T05,2020-08-05
+461,CUST-00461,Najd Healthcare Enterprises,SA,SME,Financial Services,Dammam,T05,2023-07-06
+462,CUST-00462,Qassim Retail Trading,SA,SME,Education,Dammam,T05,2022-12-14
+463,CUST-00463,Asir Real Estate Solutions,SA,SME,Energy,Jeddah,T05,2021-01-11
+464,CUST-00464,Asir Hospitality Partners,SA,SME,Retail,Khobar,T05,2020-05-05
+465,CUST-00465,Asir Energy Group,SA,SME,Construction,Khobar,T05,2021-07-05
+466,CUST-00466,Najd Media Group,SA,SME,Healthcare,Riyadh,T05,2021-11-12
+467,CUST-00467,Oasis Logistics Co.,SA,SME,Energy,Khobar,T05,2019-10-26
+468,CUST-00468,Oasis Manufacturing Partners,SA,SME,Education,Riyadh,T05,2020-06-04
+469,CUST-00469,Oasis Real Estate Services,SA,SME,Manufacturing,Riyadh,T05,2020-03-17
+470,CUST-00470,Dune Hospitality Enterprises,SA,SME,Healthcare,Dammam,T05,2020-10-28
+471,CUST-00471,Qassim Financial Services Group,SA,SME,Manufacturing,Jeddah,T05,2023-10-07
+472,CUST-00472,Dune Media Holding,SA,SME,Education,Riyadh,T05,2021-11-03
+473,CUST-00473,Najd Retail Holding,SA,SME,Manufacturing,Khobar,T05,2022-06-09
+474,CUST-00474,Falcon Retail Co.,SA,SME,Financial Services,Dammam,T05,2020-12-31
+475,CUST-00475,Falcon Logistics Services,SA,SME,Government Services,Khobar,T05,2021-09-30
+476,CUST-00476,Najd Real Estate Partners,SA,SME,Education,Jeddah,T05,2023-02-03
+477,CUST-00477,Najd Government Services Partners,SA,SME,Logistics,Riyadh,T05,2023-05-13
+478,CUST-00478,Hejaz Manufacturing Holding,SA,SME,Education,Khobar,T05,2023-01-14
+479,CUST-00479,Oasis Real Estate Group,SA,SME,Education,Dammam,T05,2021-07-11
+480,CUST-00480,Najd Real Estate Solutions,SA,SME,Construction,Dammam,T05,2020-07-09
+481,CUST-00481,Oasis Retail Services,SA,SME,Logistics,Jeddah,T05,2019-07-16
+482,CUST-00482,Falcon Government Services Group,SA,SME,Manufacturing,Dammam,T05,2019-12-13
+483,CUST-00483,Hejaz Manufacturing Enterprises,SA,SME,Media,Khobar,T05,2019-06-14
+484,CUST-00484,Qassim Energy Solutions,SA,SME,Retail,Riyadh,T05,2020-08-12
+485,CUST-00485,Tuwaiq Hospitality Group,SA,SME,Manufacturing,Jeddah,T05,2021-05-18
+486,CUST-00486,Dune Energy Solutions,SA,SME,Government Services,Dammam,T05,2020-05-04
+487,CUST-00487,Najd Retail Group,SA,SME,Hospitality,Dammam,T05,2022-08-06
+488,CUST-00488,Qassim Energy Holding,SA,SME,Logistics,Jeddah,T05,2020-03-30
+489,CUST-00489,Hejaz Hospitality Trading,SA,SME,Media,Dammam,T05,2020-04-11
+490,CUST-00490,Oasis Hospitality Holding,SA,SME,Media,Dammam,T05,2023-07-16
+491,CUST-00491,Oasis Financial Services Group,SA,SME,Healthcare,Jeddah,T05,2023-07-13
+492,CUST-00492,Asir Construction Enterprises,SA,SME,Healthcare,Dammam,T05,2020-03-09
+493,CUST-00493,Oasis Energy Enterprises,SA,SME,Real Estate,Jeddah,T05,2020-11-30
+494,CUST-00494,Hejaz Manufacturing Co.,SA,SME,Healthcare,Jeddah,T05,2019-04-08
+495,CUST-00495,Qassim Real Estate Co.,SA,SME,Media,Riyadh,T05,2022-11-30
+496,CUST-00496,Oasis Real Estate Solutions,SA,SME,Manufacturing,Jeddah,T05,2023-06-04
+497,CUST-00497,Dune Media Trading,SA,SME,Real Estate,Jeddah,T05,2020-03-04
+498,CUST-00498,Tuwaiq Healthcare Solutions,SA,SME,Retail,Jeddah,T05,2020-09-14
+499,CUST-00499,Asir Healthcare Holding,SA,SME,Financial Services,Jeddah,T05,2019-02-03
+500,CUST-00500,Asir Financial Services Co.,SA,SME,Logistics,Dammam,T05,2019-12-10
+501,CUST-00501,Oasis Healthcare Holding,SA,SME,Manufacturing,Khobar,T05,2023-04-27
+502,CUST-00502,Najd Manufacturing Partners,SA,SME,Government Services,Riyadh,T05,2019-04-16
+503,CUST-00503,Qassim Construction Holding,SA,SME,Retail,Dammam,T05,2019-12-31
+504,CUST-00504,Qassim Healthcare Solutions,SA,SME,Financial Services,Riyadh,T05,2023-11-12
+505,CUST-00505,Asir Energy Solutions,SA,SME,Media,Khobar,T05,2020-12-18
+506,CUST-00506,Dune Media Co.,SA,SME,Government Services,Dammam,T05,2021-12-26
+507,CUST-00507,Qassim Logistics Partners,SA,SME,Energy,Dammam,T05,2022-11-20
+508,CUST-00508,Falcon Education Group,SA,SME,Retail,Riyadh,T05,2021-09-04
+509,CUST-00509,Qassim Energy Co.,SA,SME,Financial Services,Khobar,T05,2023-07-09
+510,CUST-00510,Qassim Energy Services,SA,SME,Hospitality,Khobar,T05,2022-11-07
+511,CUST-00511,Falcon Hospitality Enterprises,SA,SME,Healthcare,Dammam,T05,2021-10-16
+512,CUST-00512,Falcon Healthcare Co.,SA,SME,Education,Dammam,T05,2019-11-15
+513,CUST-00513,Najd Media Partners,SA,SME,Media,Dammam,T05,2020-04-20
+514,CUST-00514,Tuwaiq Government Services Enterprises,SA,SME,Media,Khobar,T05,2022-09-18
+515,CUST-00515,Oasis Media Co.,SA,SME,Retail,Jeddah,T05,2023-07-28
+516,CUST-00516,Dune Financial Services Solutions,SA,SME,Energy,Jeddah,T05,2023-05-04
+517,CUST-00517,Najd Logistics Trading,SA,SME,Media,Jeddah,T05,2019-08-27
+518,CUST-00518,Dune Education Partners,SA,SME,Logistics,Riyadh,T05,2021-06-20
+519,CUST-00519,Dune Healthcare Enterprises,SA,SME,Government Services,Dammam,T05,2020-08-26
+520,CUST-00520,Asir Real Estate Group,SA,SME,Government Services,Riyadh,T05,2023-09-17
+521,CUST-00521,Dune Education Group,SA,SME,Financial Services,Riyadh,T05,2022-01-04
+522,CUST-00522,Najd Real Estate Enterprises,SA,SME,Education,Jeddah,T05,2023-06-07
+523,CUST-00523,Asir Real Estate Services,SA,SME,Retail,Khobar,T05,2021-10-31
+524,CUST-00524,Tuwaiq Healthcare Trading,SA,SME,Media,Jeddah,T05,2021-04-15
+525,CUST-00525,Falcon Construction Services,SA,SME,Media,Riyadh,T05,2020-06-21
+526,CUST-00526,Dune Education Enterprises,SA,SME,Energy,Khobar,T05,2021-02-28
+527,CUST-00527,Tuwaiq Hospitality Solutions,SA,SME,Hospitality,Riyadh,T05,2019-09-15
+528,CUST-00528,Hejaz Healthcare Partners,SA,SME,Logistics,Khobar,T05,2020-08-29
+529,CUST-00529,Oasis Education Trading,SA,SME,Logistics,Dammam,T05,2020-04-28
+530,CUST-00530,Dune Financial Services Partners,SA,SME,Retail,Riyadh,T05,2022-07-19
+531,CUST-00531,Falcon Hospitality Co.,SA,SME,Financial Services,Riyadh,T05,2021-03-06
+532,CUST-00532,Asir Retail Services,SA,SME,Financial Services,Jeddah,T05,2022-01-21
+533,CUST-00533,Oasis Financial Services Services,SA,SME,Manufacturing,Jeddah,T05,2021-04-10
+534,CUST-00534,Najd Logistics Services,SA,SME,Financial Services,Jeddah,T05,2019-02-21
+535,CUST-00535,Oasis Retail Trading,SA,SME,Manufacturing,Khobar,T05,2023-05-25
+536,CUST-00536,Falcon Education Enterprises,SA,SME,Media,Riyadh,T05,2020-03-03
+537,CUST-00537,Hejaz Healthcare Services,SA,SME,Media,Dammam,T05,2022-07-15
+538,CUST-00538,Tuwaiq Financial Services Partners,SA,SME,Retail,Jeddah,T05,2022-05-20
+539,CUST-00539,Tuwaiq Healthcare Group,SA,SME,Logistics,Jeddah,T05,2022-12-17
+540,CUST-00540,Hejaz Construction Co.,SA,SME,Government Services,Khobar,T05,2022-01-03
+541,CUST-00541,Oasis Manufacturing Trading,SA,SME,Media,Khobar,T05,2021-08-01
+542,CUST-00542,Dune Healthcare Services,SA,SME,Government Services,Dammam,T05,2020-07-22
+543,CUST-00543,Dune Retail Services,SA,SME,Logistics,Jeddah,T05,2023-06-15
+544,CUST-00544,Najd Hospitality Partners,SA,SME,Hospitality,Jeddah,T05,2019-09-25
+545,CUST-00545,Tuwaiq Manufacturing Services,SA,SME,Retail,Khobar,T05,2021-05-17
+546,CUST-00546,Falcon Manufacturing Partners,SA,SME,Healthcare,Jeddah,T05,2022-01-04
+547,CUST-00547,Falcon Media Group,SA,SME,Education,Jeddah,T05,2022-05-13
+548,CUST-00548,Dune Logistics Solutions,SA,SME,Media,Riyadh,T05,2020-03-28
+549,CUST-00549,Falcon Healthcare Enterprises,SA,SME,Energy,Dammam,T05,2019-08-24
+550,CUST-00550,Tuwaiq Healthcare Enterprises,SA,SME,Healthcare,Khobar,T05,2022-02-06
+551,CUST-00551,Asir Energy Enterprises,SA,SME,Manufacturing,Jeddah,T05,2019-07-08
+552,CUST-00552,Oasis Education Services,SA,SME,Education,Dammam,T05,2019-01-16
+553,CUST-00553,Dune Manufacturing Co.,SA,SME,Government Services,Khobar,T05,2023-07-30
+554,CUST-00554,Hejaz Government Services Co.,SA,SME,Education,Riyadh,T05,2023-02-12
+555,CUST-00555,Qassim Hospitality Group,SA,SME,Financial Services,Riyadh,T05,2022-01-05
+556,CUST-00556,Dune Real Estate Holding,SA,SME,Media,Khobar,T05,2023-08-31
+557,CUST-00557,Najd Retail Co.,SA,SME,Manufacturing,Jeddah,T05,2020-12-22
+558,CUST-00558,Tuwaiq Real Estate Holding,SA,SME,Retail,Khobar,T05,2023-01-14
+559,CUST-00559,Asir Healthcare Services,SA,SME,Healthcare,Khobar,T05,2019-11-08
+560,CUST-00560,Tuwaiq Media Services,SA,SME,Construction,Khobar,T05,2021-09-05
+561,CUST-00561,Qassim Healthcare Partners,SA,SME,Real Estate,Dammam,T05,2019-10-14
+562,CUST-00562,Asir Education Holding,SA,SME,Financial Services,Jeddah,T05,2019-03-06
+563,CUST-00563,Hejaz Energy Holding,SA,SME,Healthcare,Khobar,T05,2023-03-23
+564,CUST-00564,Oasis Financial Services Holding,SA,SME,Real Estate,Riyadh,T05,2022-10-10
+565,CUST-00565,Dune Retail Solutions,SA,SME,Logistics,Khobar,T05,2021-02-03
+566,CUST-00566,Dune Healthcare Solutions,SA,SME,Media,Khobar,T05,2022-12-15
+567,CUST-00567,Najd Media Trading,SA,SME,Government Services,Khobar,T05,2022-07-06
+568,CUST-00568,Najd Manufacturing Services,SA,SME,Financial Services,Jeddah,T05,2023-09-27
+569,CUST-00569,Asir Education Co.,SA,SME,Retail,Dammam,T05,2023-03-02
+570,CUST-00570,Dune Financial Services Co.,SA,SME,Healthcare,Khobar,T05,2022-12-17
+571,CUST-00571,Najd Energy Trading,SA,SME,Energy,Khobar,T05,2020-09-26
+572,CUST-00572,Hejaz Retail Solutions,SA,SME,Education,Jeddah,T05,2019-07-15
+573,CUST-00573,Asir Construction Trading,SA,SME,Logistics,Dammam,T05,2020-02-22
+574,CUST-00574,Tuwaiq Healthcare Services,SA,SME,Financial Services,Jeddah,T05,2019-03-01
+575,CUST-00575,Oasis Government Services Co.,SA,SME,Financial Services,Riyadh,T05,2020-11-13
+576,CUST-00576,Najd Construction Services,SA,SME,Manufacturing,Jeddah,T05,2023-09-02
+577,CUST-00577,Asir Logistics Co.,SA,SME,Energy,Dammam,T05,2021-08-02
+578,CUST-00578,Hejaz Energy Trading,SA,SME,Logistics,Dammam,T05,2021-10-26
+579,CUST-00579,Najd Logistics Co.,SA,SME,Energy,Riyadh,T05,2023-04-22
+580,CUST-00580,Najd Government Services Co.,SA,SME,Financial Services,Khobar,T05,2020-01-08
+581,CUST-00581,Asir Financial Services Group,SA,SME,Financial Services,Khobar,T05,2022-10-28
+582,CUST-00582,Tuwaiq Energy Holding,SA,SME,Education,Jeddah,T05,2019-03-19
+583,CUST-00583,Tuwaiq Real Estate Enterprises,SA,SME,Financial Services,Jeddah,T05,2021-06-09
+584,CUST-00584,Qassim Media Partners,SA,SME,Hospitality,Dammam,T05,2021-08-21
+585,CUST-00585,Hejaz Media Partners,SA,SME,Media,Dammam,T05,2023-09-28
+586,CUST-00586,Asir Construction Group,SA,SME,Healthcare,Khobar,T05,2022-12-12
+587,CUST-00587,Najd Retail Services,SA,SME,Government Services,Dammam,T05,2020-03-09
+588,CUST-00588,Hejaz Real Estate Enterprises,SA,SME,Hospitality,Riyadh,T05,2020-03-25
+589,CUST-00589,Tuwaiq Government Services Co.,SA,SME,Healthcare,Riyadh,T05,2019-03-21
+590,CUST-00590,Tuwaiq Retail Trading,SA,SME,Construction,Jeddah,T05,2023-09-12
+591,CUST-00591,Hejaz Hospitality Solutions,SA,SME,Retail,Khobar,T05,2019-11-17
+592,CUST-00592,Falcon Retail Holding,SA,SME,Education,Jeddah,T05,2020-12-22
+593,CUST-00593,Hejaz Hospitality Holding,SA,SME,Retail,Khobar,T05,2021-03-10
+594,CUST-00594,Falcon Energy Holding,SA,SME,Financial Services,Riyadh,T05,2023-04-29
+595,CUST-00595,Tuwaiq Media Holding,SA,SME,Healthcare,Riyadh,T05,2019-12-26
+596,CUST-00596,Najd Real Estate Co.,SA,SME,Real Estate,Riyadh,T05,2022-11-06
+597,CUST-00597,Hejaz Government Services Partners,SA,SME,Energy,Dammam,T05,2021-03-14
+598,CUST-00598,Dune Healthcare Group,SA,SME,Hospitality,Jeddah,T05,2021-01-08
+599,CUST-00599,Hejaz Financial Services Partners,SA,SME,Logistics,Dammam,T05,2022-06-05
+600,CUST-00600,Oasis Education Partners,SA,SME,Manufacturing,Jeddah,T05,2020-07-14
+601,CUST-00601,Najd Logistics Enterprises,SA,SME,Retail,Dammam,T05,2023-10-19
+602,CUST-00602,Falcon Retail Trading,SA,SME,Healthcare,Riyadh,T05,2022-08-02
+603,CUST-00603,Dune Construction Co.,SA,SME,Education,Khobar,T05,2022-06-03
+604,CUST-00604,Asir Construction Partners,SA,SME,Real Estate,Jeddah,T05,2022-02-17
+605,CUST-00605,Dune Hospitality Services,SA,SME,Logistics,Jeddah,T05,2019-07-01
+606,CUST-00606,Falcon Real Estate Co.,SA,SME,Healthcare,Jeddah,T05,2020-07-25
+607,CUST-00607,Dune Retail Co.,SA,SME,Government Services,Khobar,T05,2020-02-20
+608,CUST-00608,Hejaz Energy Co.,SA,SME,Education,Riyadh,T05,2020-03-11
+609,CUST-00609,Hejaz Healthcare Group,SA,SME,Energy,Khobar,T05,2023-11-28
+610,CUST-00610,Hejaz Energy Services,SA,SME,Financial Services,Jeddah,T05,2022-07-18
+611,CUST-00611,Najd Logistics Solutions,SA,SME,Logistics,Khobar,T05,2019-07-09
+612,CUST-00612,Hejaz Media Enterprises,SA,SME,Education,Jeddah,T05,2023-08-16
+613,CUST-00613,Qassim Retail Solutions,SA,SME,Government Services,Riyadh,T05,2022-04-15
+614,CUST-00614,Hejaz Education Trading,SA,SME,Logistics,Dammam,T05,2021-06-24
+615,CUST-00615,Hejaz Manufacturing Group,SA,SME,Real Estate,Jeddah,T05,2019-11-21
+616,CUST-00616,Najd Manufacturing Enterprises,SA,SME,Retail,Jeddah,T05,2020-01-13
+617,CUST-00617,Hejaz Manufacturing Partners,SA,SME,Financial Services,Dammam,T05,2023-08-01
+618,CUST-00618,Dune Construction Holding,SA,SME,Energy,Jeddah,T05,2019-03-09
+619,CUST-00619,Oasis Media Services,SA,SME,Manufacturing,Khobar,T05,2020-09-27
+620,CUST-00620,Asir Financial Services Enterprises,SA,SME,Energy,Dammam,T05,2019-12-09
+621,CUST-00621,Qassim Education Solutions,SA,SME,Manufacturing,Dammam,T05,2021-09-11
+622,CUST-00622,Qassim Media Services,SA,SME,Manufacturing,Jeddah,T05,2023-05-19
+623,CUST-00623,Asir Energy Co.,SA,SME,Government Services,Khobar,T05,2022-12-20
+624,CUST-00624,Falcon Healthcare Partners,SA,SME,Media,Khobar,T05,2022-11-27
+625,CUST-00625,Hejaz Logistics Holding,SA,SME,Healthcare,Khobar,T05,2021-08-10
+626,CUST-00626,Dune Healthcare Partners,SA,SME,Energy,Riyadh,T05,2023-07-08
+627,CUST-00627,Dune Financial Services Group,SA,SME,Media,Khobar,T05,2022-02-16
+628,CUST-00628,Hejaz Hospitality Co.,SA,SME,Manufacturing,Khobar,T05,2019-12-12
+629,CUST-00629,Falcon Healthcare Holding,SA,SME,Healthcare,Dammam,T05,2020-06-23
+630,CUST-00630,Hejaz Construction Services,SA,SME,Education,Khobar,T05,2022-05-05
+631,CUST-00631,Falcon Hospitality Holding,SA,SME,Education,Khobar,T05,2020-08-15
+632,CUST-00632,Falcon Logistics Enterprises,SA,SME,Healthcare,Dammam,T05,2019-03-23
+633,CUST-00633,Qassim Financial Services Partners,SA,SME,Manufacturing,Dammam,T05,2019-03-05
+634,CUST-00634,Najd Logistics Holding,SA,SME,Government Services,Dammam,T05,2020-11-16
+635,CUST-00635,Qassim Logistics Enterprises,SA,SME,Education,Riyadh,T05,2023-02-06
+636,CUST-00636,Oasis Energy Group,SA,SME,Healthcare,Dammam,T05,2020-08-04
+637,CUST-00637,Oasis Hospitality Co.,SA,SME,Financial Services,Jeddah,T05,2021-10-22
+638,CUST-00638,Tuwaiq Financial Services Solutions,SA,SME,Manufacturing,Khobar,T05,2020-04-07
+639,CUST-00639,Hejaz Logistics Solutions,SA,SME,Healthcare,Khobar,T05,2022-01-05
+640,CUST-00640,Hejaz Government Services Enterprises,SA,SME,Healthcare,Khobar,T05,2020-08-21
+641,CUST-00641,Asir Manufacturing Services,SA,SME,Manufacturing,Dammam,T05,2022-10-27
+642,CUST-00642,Asir Government Services Co.,SA,SME,Logistics,Khobar,T05,2020-02-04
+643,CUST-00643,Asir Logistics Partners,SA,SME,Manufacturing,Jeddah,T05,2023-11-25
+644,CUST-00644,Hejaz Government Services Trading,SA,SME,Healthcare,Khobar,T05,2022-09-17
+645,CUST-00645,Hejaz Financial Services Enterprises,SA,SME,Retail,Khobar,T05,2022-05-09
+646,CUST-00646,Najd Hospitality Co.,SA,SME,Media,Jeddah,T05,2020-06-02
+647,CUST-00647,Qassim Real Estate Group,SA,SME,Education,Jeddah,T05,2023-09-05
+648,CUST-00648,Dune Media Services,SA,SME,Manufacturing,Jeddah,T05,2022-08-01
+649,CUST-00649,Qassim Retail Enterprises,SA,SME,Hospitality,Dammam,T05,2022-04-09
+650,CUST-00650,Qassim Education Co.,SA,SME,Manufacturing,Jeddah,T05,2023-10-18
+651,CUST-00651,Qassim Financial Services Enterprises,SA,SME,Real Estate,Khobar,T05,2020-09-13
+652,CUST-00652,Najd Financial Services Holding,SA,SME,Energy,Riyadh,T05,2023-07-14
+653,CUST-00653,Falcon Manufacturing Solutions,SA,SME,Media,Jeddah,T05,2022-03-14
+654,CUST-00654,Dune Logistics Trading,SA,SME,Government Services,Riyadh,T05,2023-11-19
+655,CUST-00655,Falcon Real Estate Holding,SA,SME,Construction,Khobar,T05,2022-09-13
+656,CUST-00656,Falcon Manufacturing Trading,SA,SME,Logistics,Riyadh,T05,2022-11-28
+657,CUST-00657,Falcon Energy Trading,SA,SME,Retail,Jeddah,T05,2022-06-17
+658,CUST-00658,Asir Media Trading,SA,SME,Healthcare,Dammam,T05,2019-10-03
+659,CUST-00659,Oasis Government Services Partners,SA,SME,Energy,Khobar,T05,2020-11-17
+660,CUST-00660,Oasis Financial Services Trading,SA,SME,Retail,Jeddah,T05,2019-03-26
+661,CUST-00661,Falcon Financial Services Services,SA,SME,Healthcare,Riyadh,T05,2020-09-22
+662,CUST-00662,Falcon Real Estate Solutions,SA,SME,Energy,Khobar,T05,2022-09-14
+663,CUST-00663,Dune Energy Trading,SA,SME,Construction,Jeddah,T05,2020-05-31
+664,CUST-00664,Tuwaiq Media Enterprises,SA,SME,Energy,Dammam,T05,2022-01-17
+665,CUST-00665,Oasis Real Estate Trading,SA,SME,Financial Services,Riyadh,T05,2020-11-25
+666,CUST-00666,Tuwaiq Education Group,SA,SME,Construction,Riyadh,T05,2023-05-19
+667,CUST-00667,Qassim Government Services Co.,SA,SME,Healthcare,Dammam,T05,2020-10-10
+668,CUST-00668,Najd Healthcare Co.,SA,SME,Financial Services,Jeddah,T05,2019-02-08
+669,CUST-00669,Hejaz Education Co.,SA,SME,Healthcare,Dammam,T05,2021-03-09
+670,CUST-00670,Dune Financial Services Trading,SA,SME,Healthcare,Riyadh,T05,2020-01-25
+671,CUST-00671,Tuwaiq Energy Trading,SA,SME,Education,Dammam,T05,2022-04-22
+672,CUST-00672,Oasis Retail Partners,SA,SME,Manufacturing,Dammam,T05,2021-09-06
+673,CUST-00673,Asir Logistics Group,SA,SME,Energy,Riyadh,T05,2023-09-03
+674,CUST-00674,Qassim Retail Group,SA,SME,Education,Jeddah,T05,2023-04-09
+675,CUST-00675,Oasis Hospitality Services,SA,SME,Healthcare,Dammam,T05,2022-03-18
+676,CUST-00676,Asir Government Services Holding,SA,SME,Retail,Jeddah,T05,2022-01-24
+677,CUST-00677,Falcon Education Trading,SA,SME,Manufacturing,Jeddah,T05,2023-04-10
+678,CUST-00678,Dune Construction Partners,SA,SME,Financial Services,Khobar,T05,2021-03-21
+679,CUST-00679,Qassim Manufacturing Partners,SA,SME,Logistics,Jeddah,T05,2023-04-09
+680,CUST-00680,Qassim Retail Partners,SA,SME,Retail,Dammam,T05,2019-02-16
+681,CUST-00681,Qassim Government Services Holding,SA,SME,Logistics,Dammam,T05,2020-11-30
+682,CUST-00682,Hejaz Healthcare Trading,SA,SME,Financial Services,Riyadh,T05,2020-11-09
+683,CUST-00683,Asir Media Services,SA,SME,Logistics,Dammam,T05,2019-11-23
+684,CUST-00684,Falcon Energy Enterprises,SA,SME,Education,Dammam,T05,2022-09-08
+685,CUST-00685,Falcon Financial Services Partners,SA,SME,Construction,Jeddah,T05,2020-11-28
+686,CUST-00686,Asir Hospitality Trading,SA,SME,Energy,Jeddah,T05,2023-11-19
+687,CUST-00687,Dune Education Trading,SA,SME,Hospitality,Riyadh,T05,2020-10-03
+688,CUST-00688,Qassim Education Enterprises,SA,SME,Government Services,Riyadh,T05,2021-02-04
+689,CUST-00689,Tuwaiq Media Co.,SA,SME,Government Services,Dammam,T05,2020-04-09
+690,CUST-00690,Falcon Construction Enterprises,SA,SME,Healthcare,Jeddah,T05,2023-10-14
+691,CUST-00691,Tuwaiq Education Co.,SA,SME,Manufacturing,Jeddah,T05,2023-02-08
+692,CUST-00692,Asir Construction Services,SA,SME,Real Estate,Khobar,T05,2022-10-15
+693,CUST-00693,Oasis Financial Services Enterprises,SA,SME,Retail,Jeddah,T05,2020-09-15
+694,CUST-00694,Oasis Financial Services Partners,SA,SME,Construction,Riyadh,T05,2019-10-22
+695,CUST-00695,Najd Media Services,SA,SME,Manufacturing,Jeddah,T05,2022-01-23
+696,CUST-00696,Falcon Retail Group,SA,SME,Media,Khobar,T05,2020-05-02
+697,CUST-00697,Asir Healthcare Group,SA,SME,Healthcare,Riyadh,T05,2020-10-12
+698,CUST-00698,Tuwaiq Financial Services Holding,SA,SME,Manufacturing,Khobar,T05,2023-02-02
+699,CUST-00699,Hejaz Government Services Services,SA,SME,Energy,Jeddah,T05,2023-05-18
+700,CUST-00700,Qassim Manufacturing Trading,SA,SME,Healthcare,Khobar,T05,2021-12-05
+701,CUST-00701,Hejaz Logistics Trading,SA,SME,Hospitality,Khobar,T05,2020-06-20
+702,CUST-00702,Asir Government Services Enterprises,SA,SME,Manufacturing,Khobar,T05,2020-05-31
+703,CUST-00703,Oasis Logistics Partners,SA,SME,Logistics,Jeddah,T05,2020-02-20
+704,CUST-00704,Hejaz Retail Trading,SA,SME,Manufacturing,Jeddah,T05,2021-04-05
+705,CUST-00705,Falcon Media Services,SA,SME,Hospitality,Khobar,T05,2021-11-05
+706,CUST-00706,Palm Construction Group,AE,Enterprise,Construction,Abu Dhabi,T06,2023-02-09
+707,CUST-00707,Horizon Manufacturing Group,AE,Enterprise,Logistics,Abu Dhabi,T06,2023-11-23
+708,CUST-00708,Pearl Logistics Co.,AE,Enterprise,Media,Sharjah,T06,2022-02-08
+709,CUST-00709,Saffron Construction Group,AE,Enterprise,Healthcare,Sharjah,T06,2019-06-23
+710,CUST-00710,Dhow Media Services,AE,Enterprise,Healthcare,Abu Dhabi,T06,2020-11-15
+711,CUST-00711,Saffron Logistics Trading,AE,Enterprise,Hospitality,Dubai,T06,2021-10-14
+712,CUST-00712,Pearl Construction Holding,AE,Enterprise,Logistics,Abu Dhabi,T06,2020-09-16
+713,CUST-00713,Dhow Financial Services Group,AE,Enterprise,Manufacturing,Sharjah,T06,2020-07-18
+714,CUST-00714,Emirates Bay Energy Group,AE,Enterprise,Hospitality,Abu Dhabi,T06,2023-01-19
+715,CUST-00715,Dhow Media Trading,AE,Enterprise,Manufacturing,Dubai,T06,2020-09-01
+716,CUST-00716,Creek Construction Partners,AE,Enterprise,Media,Sharjah,T06,2019-10-10
+717,CUST-00717,Emirates Bay Government Services Solutions,AE,Enterprise,Media,Dubai,T06,2022-12-08
+718,CUST-00718,Saffron Real Estate Partners,AE,Enterprise,Education,Dubai,T06,2021-03-06
+719,CUST-00719,Horizon Logistics Enterprises,AE,Enterprise,Media,Dubai,T06,2022-09-11
+720,CUST-00720,Dhow Healthcare Co.,AE,Enterprise,Construction,Abu Dhabi,T06,2022-03-16
+721,CUST-00721,Saffron Energy Group,AE,Enterprise,Healthcare,Abu Dhabi,T06,2020-03-02
+722,CUST-00722,Saffron Healthcare Group,AE,Enterprise,Logistics,Dubai,T06,2022-11-26
+723,CUST-00723,Creek Logistics Group,AE,Enterprise,Media,Abu Dhabi,T06,2020-03-05
+724,CUST-00724,Horizon Government Services Services,AE,Enterprise,Education,Dubai,T06,2022-09-19
+725,CUST-00725,Creek Energy Co.,AE,Enterprise,Manufacturing,Abu Dhabi,T06,2021-09-02
+726,CUST-00726,Emirates Bay Manufacturing Partners,AE,Enterprise,Energy,Abu Dhabi,T06,2023-07-02
+727,CUST-00727,Horizon Real Estate Group,AE,Enterprise,Retail,Abu Dhabi,T06,2020-02-14
+728,CUST-00728,Pearl Education Solutions,AE,Enterprise,Construction,Sharjah,T06,2023-08-13
+729,CUST-00729,Horizon Hospitality Partners,AE,Enterprise,Logistics,Dubai,T06,2023-05-21
+730,CUST-00730,Horizon Hospitality Group,AE,Enterprise,Financial Services,Abu Dhabi,T06,2022-06-25
+731,CUST-00731,Marina Retail Trading,AE,Enterprise,Logistics,Abu Dhabi,T06,2019-08-18
+732,CUST-00732,Emirates Bay Retail Partners,AE,Enterprise,Logistics,Abu Dhabi,T06,2020-04-27
+733,CUST-00733,Horizon Retail Partners,AE,Enterprise,Government Services,Dubai,T06,2022-09-06
+734,CUST-00734,Saffron Manufacturing Solutions,AE,Enterprise,Healthcare,Dubai,T06,2021-12-22
+735,CUST-00735,Palm Media Trading,AE,Enterprise,Media,Sharjah,T06,2022-04-22
+736,CUST-00736,Saffron Logistics Partners,AE,Enterprise,Hospitality,Abu Dhabi,T06,2021-09-10
+737,CUST-00737,Dhow Logistics Enterprises,AE,Enterprise,Energy,Abu Dhabi,T06,2023-02-23
+738,CUST-00738,Palm Real Estate Trading,AE,Enterprise,Construction,Abu Dhabi,T06,2022-04-01
+739,CUST-00739,Marina Hospitality Enterprises,AE,Enterprise,Healthcare,Sharjah,T06,2023-04-14
+740,CUST-00740,Marina Manufacturing Services,AE,Enterprise,Logistics,Sharjah,T06,2023-01-18
+741,CUST-00741,Marina Manufacturing Trading,AE,Enterprise,Manufacturing,Abu Dhabi,T06,2022-03-31
+742,CUST-00742,Emirates Bay Media Solutions,AE,Enterprise,Media,Abu Dhabi,T06,2019-03-09
+743,CUST-00743,Creek Retail Co.,AE,Enterprise,Construction,Sharjah,T06,2022-03-28
+744,CUST-00744,Dhow Energy Co.,AE,Enterprise,Logistics,Abu Dhabi,T06,2019-08-30
+745,CUST-00745,Dhow Real Estate Co.,AE,Enterprise,Media,Dubai,T06,2020-09-17
+746,CUST-00746,Creek Healthcare Solutions,AE,Enterprise,Education,Dubai,T06,2019-05-05
+747,CUST-00747,Marina Education Partners,AE,Enterprise,Healthcare,Abu Dhabi,T06,2023-03-05
+748,CUST-00748,Emirates Bay Energy Services,AE,Enterprise,Financial Services,Sharjah,T06,2023-01-16
+749,CUST-00749,Palm Logistics Co.,AE,Enterprise,Government Services,Dubai,T06,2021-10-29
+750,CUST-00750,Dhow Retail Co.,AE,Enterprise,Construction,Sharjah,T06,2021-12-10
+751,CUST-00751,Saffron Retail Trading,AE,Enterprise,Manufacturing,Abu Dhabi,T06,2020-07-07
+752,CUST-00752,Horizon Healthcare Co.,AE,Enterprise,Logistics,Dubai,T06,2020-04-28
+753,CUST-00753,Palm Logistics Trading,AE,Enterprise,Energy,Sharjah,T06,2022-10-08
+754,CUST-00754,Palm Media Solutions,AE,Enterprise,Retail,Dubai,T06,2019-12-20
+755,CUST-00755,Dhow Real Estate Holding,AE,Enterprise,Manufacturing,Dubai,T06,2023-03-27
+756,CUST-00756,Dhow Financial Services Solutions,AE,Enterprise,Financial Services,Sharjah,T06,2019-02-04
+757,CUST-00757,Creek Real Estate Group,AE,Enterprise,Government Services,Sharjah,T06,2020-01-30
+758,CUST-00758,Marina Real Estate Co.,AE,Enterprise,Construction,Sharjah,T06,2023-09-02
+759,CUST-00759,Emirates Bay Education Group,AE,Enterprise,Construction,Dubai,T06,2022-01-25
+760,CUST-00760,Saffron Hospitality Partners,AE,Enterprise,Construction,Sharjah,T06,2020-10-11
+761,CUST-00761,Horizon Energy Solutions,AE,Enterprise,Hospitality,Sharjah,T06,2022-03-28
+762,CUST-00762,Creek Hospitality Trading,AE,Enterprise,Real Estate,Dubai,T06,2021-12-19
+763,CUST-00763,Horizon Financial Services Solutions,AE,Enterprise,Financial Services,Dubai,T06,2019-11-03
+764,CUST-00764,Saffron Retail Services,AE,Enterprise,Media,Abu Dhabi,T06,2023-11-26
+765,CUST-00765,Creek Energy Partners,AE,Enterprise,Real Estate,Abu Dhabi,T06,2022-02-18
+766,CUST-00766,Creek Retail Trading,AE,Enterprise,Construction,Abu Dhabi,T06,2022-06-01
+767,CUST-00767,Dhow Healthcare Holding,AE,Enterprise,Healthcare,Sharjah,T06,2020-04-15
+768,CUST-00768,Pearl Healthcare Group,AE,Enterprise,Hospitality,Abu Dhabi,T06,2022-02-26
+769,CUST-00769,Palm Healthcare Services,AE,Enterprise,Media,Sharjah,T06,2019-06-03
+770,CUST-00770,Saffron Manufacturing Holding,AE,Enterprise,Government Services,Abu Dhabi,T06,2022-09-22
+771,CUST-00771,Palm Manufacturing Services,AE,Enterprise,Education,Dubai,T06,2019-05-12
+772,CUST-00772,Horizon Hospitality Enterprises,AE,Enterprise,Media,Abu Dhabi,T06,2023-06-27
+773,CUST-00773,Saffron Financial Services Group,AE,Enterprise,Real Estate,Abu Dhabi,T06,2021-05-06
+774,CUST-00774,Marina Government Services Holding,AE,Enterprise,Logistics,Abu Dhabi,T06,2022-01-02
+775,CUST-00775,Palm Retail Holding,AE,Enterprise,Real Estate,Dubai,T06,2022-09-23
+776,CUST-00776,Marina Networks LLC,AE,Partner,IT Channel,Dubai,T07,2019-09-14
+777,CUST-00777,Creek Digital Partners,AE,Partner,IT Channel,Abu Dhabi,T07,2021-08-14
+778,CUST-00778,Marina Systems Integrator,AE,Partner,IT Channel,Abu Dhabi,T07,2019-10-29
+779,CUST-00779,Creek Tech Resellers,AE,Partner,IT Channel,Abu Dhabi,T07,2020-08-22
+780,CUST-00780,Horizon Networks LLC,AE,Partner,IT Channel,Dubai,T07,2021-11-14
+781,CUST-00781,Palm Networks LLC,AE,Partner,IT Channel,Sharjah,T07,2023-11-01
+782,CUST-00782,Saffron Networks LLC,AE,Partner,IT Channel,Sharjah,T07,2022-08-13
+783,CUST-00783,Marina Tech Resellers,AE,Partner,IT Channel,Abu Dhabi,T07,2021-11-23
+784,CUST-00784,Palm IT Distribution,AE,Partner,IT Channel,Abu Dhabi,T07,2020-02-23
+785,CUST-00785,Emirates Bay Networks LLC,AE,Partner,IT Channel,Abu Dhabi,T07,2021-03-26
+786,CUST-00786,Palm Systems Integrator,AE,Partner,IT Channel,Sharjah,T07,2021-10-18
+787,CUST-00787,Pearl Systems Integrator,AE,Partner,IT Channel,Sharjah,T07,2022-09-10
+788,CUST-00788,Dhow Systems Integrator,AE,Partner,IT Channel,Sharjah,T07,2021-03-07
+789,CUST-00789,Saffron Tech Resellers,AE,Partner,IT Channel,Sharjah,T07,2023-04-05
+790,CUST-00790,Emirates Bay Tech Resellers,AE,Partner,IT Channel,Abu Dhabi,T07,2022-12-17
+791,CUST-00791,Marina IT Distribution,AE,Partner,IT Channel,Sharjah,T07,2022-02-15
+792,CUST-00792,Saffron IT Distribution,AE,Partner,IT Channel,Sharjah,T07,2021-01-07
+793,CUST-00793,Creek Networks LLC,AE,Partner,IT Channel,Dubai,T07,2019-10-21
+794,CUST-00794,Dhow Digital Partners,AE,Partner,IT Channel,Sharjah,T07,2021-05-15
+795,CUST-00795,Dhow IT Distribution,AE,Partner,IT Channel,Dubai,T07,2021-11-19
+796,CUST-00796,Emirates Bay Digital Partners,AE,Partner,IT Channel,Sharjah,T07,2020-10-22
+797,CUST-00797,Horizon Systems Integrator,AE,Partner,IT Channel,Dubai,T07,2021-12-18
+798,CUST-00798,Horizon Digital Partners,AE,Partner,IT Channel,Dubai,T07,2019-12-15
+799,CUST-00799,Emirates Bay IT Distribution,AE,Partner,IT Channel,Sharjah,T07,2021-02-01
+800,CUST-00800,Pearl Networks LLC,AE,Partner,IT Channel,Abu Dhabi,T07,2021-06-25
+801,CUST-00801,Saffron Systems Integrator,AE,Partner,IT Channel,Dubai,T07,2021-03-04
+802,CUST-00802,Dhow Tech Resellers,AE,Partner,IT Channel,Abu Dhabi,T07,2020-02-29
+803,CUST-00803,Creek IT Distribution,AE,Partner,IT Channel,Sharjah,T07,2022-10-17
+804,CUST-00804,Creek Systems Integrator,AE,Partner,IT Channel,Dubai,T07,2020-08-04
+805,CUST-00805,Emirates Bay Systems Integrator,AE,Partner,IT Channel,Abu Dhabi,T07,2020-05-19
+806,CUST-00806,Palm Tech Resellers,AE,Partner,IT Channel,Dubai,T07,2020-05-04
+807,CUST-00807,Horizon IT Distribution,AE,Partner,IT Channel,Dubai,T07,2019-12-01
+808,CUST-00808,Palm Digital Partners,AE,Partner,IT Channel,Abu Dhabi,T07,2022-08-26
+809,CUST-00809,Pearl Tech Resellers,AE,Partner,IT Channel,Sharjah,T07,2019-07-19
+810,CUST-00810,Pearl IT Distribution,AE,Partner,IT Channel,Abu Dhabi,T07,2020-10-21
+811,CUST-00811,Dhow Networks LLC,AE,Partner,IT Channel,Abu Dhabi,T07,2019-04-04
+812,CUST-00812,Pearl Digital Partners,AE,Partner,IT Channel,Dubai,T07,2023-02-17
+813,CUST-00813,Horizon Tech Resellers,AE,Partner,IT Channel,Sharjah,T07,2020-05-12
+814,CUST-00814,Saffron Digital Partners,AE,Partner,IT Channel,Sharjah,T07,2020-07-22
+815,CUST-00815,Marina Digital Partners,AE,Partner,IT Channel,Abu Dhabi,T07,2023-07-25
+816,CUST-00816,Pearl Digital Partners 816,AE,Partner,IT Channel,Abu Dhabi,T07,2022-06-27
+817,CUST-00817,Pearl Digital Partners 817,AE,Partner,IT Channel,Dubai,T07,2023-08-05
+818,CUST-00818,Emirates Bay Networks LLC 818,AE,Partner,IT Channel,Abu Dhabi,T07,2021-05-15
+819,CUST-00819,Dhow Systems Integrator 819,AE,Partner,IT Channel,Abu Dhabi,T07,2019-01-24
+820,CUST-00820,Creek IT Distribution 820,AE,Partner,IT Channel,Abu Dhabi,T07,2020-06-09
+821,CUST-00821,Batinah Retail Solutions,OM,SME,Logistics,Nizwa,T08,2022-07-02
+822,CUST-00822,Batinah Real Estate Group,OM,SME,Education,Muscat,T08,2021-05-23
+823,CUST-00823,Sur Logistics Co.,OM,SME,Real Estate,Muscat,T08,2023-11-22
+824,CUST-00824,Batinah Construction Trading,OM,SME,Real Estate,Sohar,T08,2022-07-31
+825,CUST-00825,Muscat Bay Real Estate Holding,OM,SME,Media,Muscat,T08,2022-05-15
+826,CUST-00826,Qurum Retail Enterprises,OM,SME,Logistics,Salalah,T08,2020-04-06
+827,CUST-00827,Dhofar Education Holding,OM,SME,Retail,Muscat,T08,2022-12-02
+828,CUST-00828,Muscat Bay Manufacturing Services,OM,SME,Government Services,Salalah,T08,2020-12-28
+829,CUST-00829,Wadi Construction Services,OM,SME,Government Services,Sohar,T08,2020-11-04
+830,CUST-00830,Dhofar Energy Group,OM,SME,Manufacturing,Sohar,T08,2019-09-22
+831,CUST-00831,Hajar Construction Solutions,OM,SME,Media,Sohar,T08,2020-05-19
+832,CUST-00832,Dhofar Energy Services,OM,SME,Retail,Sohar,T08,2019-11-09
+833,CUST-00833,Muscat Bay Logistics Services,OM,SME,Financial Services,Salalah,T08,2020-11-19
+834,CUST-00834,Wadi Media Services,OM,SME,Logistics,Sohar,T08,2019-07-20
+835,CUST-00835,Frankincense Government Services Trading,OM,SME,Media,Sohar,T08,2023-04-09
+836,CUST-00836,Qurum Media Solutions,OM,SME,Energy,Nizwa,T08,2019-02-14
+837,CUST-00837,Frankincense Media Services,OM,SME,Education,Nizwa,T08,2022-05-03
+838,CUST-00838,Wadi Construction Co.,OM,SME,Energy,Muscat,T08,2020-12-14
+839,CUST-00839,Dhofar Government Services Enterprises,OM,SME,Hospitality,Nizwa,T08,2022-08-06
+840,CUST-00840,Batinah Manufacturing Group,OM,SME,Energy,Muscat,T08,2022-06-14
+841,CUST-00841,Sur Manufacturing Holding,OM,SME,Healthcare,Nizwa,T08,2021-03-30
+842,CUST-00842,Muscat Bay Manufacturing Co.,OM,SME,Energy,Muscat,T08,2023-07-26
+843,CUST-00843,Dhofar Real Estate Partners,OM,SME,Financial Services,Sohar,T08,2022-03-06
+844,CUST-00844,Frankincense Construction Partners,OM,SME,Construction,Muscat,T08,2021-12-08
+845,CUST-00845,Muscat Bay Retail Holding,OM,SME,Financial Services,Muscat,T08,2023-02-18
+846,CUST-00846,Muscat Bay Energy Services,OM,SME,Healthcare,Muscat,T08,2022-12-28
+847,CUST-00847,Hajar Healthcare Holding,OM,SME,Media,Nizwa,T08,2021-03-10
+848,CUST-00848,Qurum Media Enterprises,OM,SME,Education,Sohar,T08,2020-10-30
+849,CUST-00849,Qurum Government Services Group,OM,SME,Logistics,Sohar,T08,2021-11-13
+850,CUST-00850,Qurum Government Services Trading,OM,SME,Retail,Muscat,T08,2021-05-12
+851,CUST-00851,Wadi Media Partners,OM,SME,Hospitality,Salalah,T08,2023-06-11
+852,CUST-00852,Hajar Financial Services Trading,OM,SME,Financial Services,Sohar,T08,2021-05-07
+853,CUST-00853,Wadi Media Solutions,OM,SME,Retail,Sohar,T08,2019-06-21
+854,CUST-00854,Dhofar Hospitality Co.,OM,SME,Government Services,Nizwa,T08,2019-04-11
+855,CUST-00855,Muscat Bay Construction Partners,OM,SME,Financial Services,Salalah,T08,2020-06-27
+856,CUST-00856,Qurum Financial Services Partners,OM,SME,Government Services,Sohar,T08,2022-09-17
+857,CUST-00857,Hajar Education Services,OM,SME,Hospitality,Nizwa,T08,2023-07-19
+858,CUST-00858,Frankincense Retail Enterprises,OM,SME,Manufacturing,Muscat,T08,2023-10-16
+859,CUST-00859,Sur Education Holding,OM,SME,Healthcare,Muscat,T08,2021-07-09
+860,CUST-00860,Sur Financial Services Services,OM,SME,Healthcare,Sohar,T08,2021-01-14
+861,CUST-00861,Batinah Government Services Solutions,OM,SME,Government Services,Sohar,T08,2020-06-22
+862,CUST-00862,Qurum Financial Services Group,OM,SME,Education,Salalah,T08,2019-02-27
+863,CUST-00863,Qurum Media Group,OM,SME,Retail,Nizwa,T08,2020-12-15
+864,CUST-00864,Frankincense Manufacturing Enterprises,OM,SME,Retail,Sohar,T08,2023-05-23
+865,CUST-00865,Muscat Bay Energy Trading,OM,SME,Hospitality,Nizwa,T08,2022-09-21
+866,CUST-00866,Hajar Real Estate Trading,OM,SME,Retail,Salalah,T08,2021-10-29
+867,CUST-00867,Wadi Financial Services Co.,OM,SME,Manufacturing,Salalah,T08,2021-06-17
+868,CUST-00868,Wadi Manufacturing Services,OM,SME,Construction,Muscat,T08,2021-10-14
+869,CUST-00869,Qurum Media Co.,OM,SME,Construction,Salalah,T08,2022-10-29
+870,CUST-00870,Muscat Bay Construction Co.,OM,SME,Real Estate,Sohar,T08,2022-09-08
+871,CUST-00871,Frankincense Hospitality Co.,OM,SME,Logistics,Nizwa,T08,2020-10-13
+872,CUST-00872,Hajar Financial Services Services,OM,SME,Manufacturing,Nizwa,T08,2023-04-12
+873,CUST-00873,Sur Financial Services Partners,OM,SME,Manufacturing,Salalah,T08,2020-02-08
+874,CUST-00874,Sur Manufacturing Services,OM,SME,Media,Muscat,T08,2023-08-24
+875,CUST-00875,Frankincense Real Estate Holding,OM,SME,Financial Services,Salalah,T08,2022-09-07
+876,CUST-00876,Wadi Education Co.,OM,SME,Hospitality,Sohar,T08,2022-04-05
+877,CUST-00877,Wadi Real Estate Group,OM,SME,Retail,Muscat,T08,2021-07-09
+878,CUST-00878,Batinah Healthcare Solutions,OM,SME,Energy,Nizwa,T08,2019-12-10
+879,CUST-00879,Dhofar Logistics Holding,OM,SME,Construction,Salalah,T08,2022-01-09
+880,CUST-00880,Muscat Bay Financial Services Co.,OM,SME,Financial Services,Muscat,T08,2021-07-19
+881,CUST-00881,Frankincense Government Services Enterprises,OM,SME,Logistics,Sohar,T08,2023-06-21
+882,CUST-00882,Dhofar Education Partners,OM,SME,Manufacturing,Salalah,T08,2019-04-23
+883,CUST-00883,Dhofar Energy Enterprises,OM,SME,Energy,Nizwa,T08,2022-08-24
+884,CUST-00884,Wadi Construction Solutions,OM,SME,Financial Services,Salalah,T08,2021-05-12
+885,CUST-00885,Qurum Government Services Partners,OM,SME,Hospitality,Nizwa,T08,2020-05-19
+886,CUST-00886,Batinah Education Services,OM,SME,Retail,Salalah,T08,2020-12-19
+887,CUST-00887,Qurum Government Services Services,OM,SME,Energy,Nizwa,T08,2022-03-09
+888,CUST-00888,Qurum Logistics Group,OM,SME,Energy,Sohar,T08,2022-07-24
+889,CUST-00889,Frankincense Retail Trading,OM,SME,Media,Muscat,T08,2021-11-30
+890,CUST-00890,Muscat Bay Energy Partners,OM,SME,Media,Sohar,T08,2020-06-29
+891,CUST-00891,Wadi Financial Services Group,OM,SME,Manufacturing,Nizwa,T08,2019-05-01
+892,CUST-00892,Muscat Bay Real Estate Group,OM,SME,Manufacturing,Muscat,T08,2019-03-26
+893,CUST-00893,Frankincense Energy Partners,OM,SME,Retail,Salalah,T08,2022-07-31
+894,CUST-00894,Sur Logistics Trading,OM,SME,Logistics,Sohar,T08,2019-12-23
+895,CUST-00895,Hajar Manufacturing Group,OM,SME,Real Estate,Muscat,T08,2020-05-24
+896,CUST-00896,Sur Construction Holding,OM,SME,Media,Nizwa,T08,2019-04-07
+897,CUST-00897,Dhofar Government Services Partners,OM,SME,Construction,Nizwa,T08,2019-03-11
+898,CUST-00898,Qurum Real Estate Co.,OM,SME,Education,Sohar,T08,2023-07-26
+899,CUST-00899,Wadi Manufacturing Group,OM,SME,Manufacturing,Sohar,T08,2022-12-22
+900,CUST-00900,Wadi Energy Group,OM,SME,Energy,Muscat,T08,2021-05-31
+901,CUST-00901,Wadi Real Estate Holding,OM,SME,Real Estate,Nizwa,T08,2021-02-19
+902,CUST-00902,Hajar Media Co.,OM,SME,Construction,Muscat,T08,2021-05-08
+903,CUST-00903,Wadi Hospitality Solutions,OM,SME,Media,Muscat,T08,2021-12-05
+904,CUST-00904,Sur Manufacturing Enterprises,OM,SME,Education,Muscat,T08,2021-10-25
+905,CUST-00905,Hajar Healthcare Trading,OM,SME,Logistics,Nizwa,T08,2022-06-19
+906,CUST-00906,Hajar Energy Group,OM,SME,Healthcare,Nizwa,T08,2019-12-21
+907,CUST-00907,Batinah Government Services Enterprises,OM,SME,Energy,Sohar,T08,2022-11-26
+908,CUST-00908,Hajar Financial Services Group,OM,SME,Manufacturing,Nizwa,T08,2023-10-14
+909,CUST-00909,Hajar Real Estate Co.,OM,SME,Education,Salalah,T08,2020-02-29
+910,CUST-00910,Hajar Retail Trading,OM,SME,Hospitality,Muscat,T08,2023-10-17
+911,CUST-00911,Frankincense Manufacturing Trading,OM,SME,Education,Muscat,T08,2019-11-25
+912,CUST-00912,Sur Hospitality Partners,OM,SME,Manufacturing,Sohar,T08,2019-08-11
+913,CUST-00913,Qurum Hospitality Enterprises,OM,SME,Financial Services,Nizwa,T08,2021-01-20
+914,CUST-00914,Hajar Retail Services,OM,SME,Government Services,Sohar,T08,2019-03-19
+915,CUST-00915,Batinah Construction Enterprises,OM,SME,Real Estate,Nizwa,T08,2023-08-25
+916,CUST-00916,Hajar Logistics Services,OM,SME,Construction,Nizwa,T08,2021-04-22
+917,CUST-00917,Batinah Media Services,OM,SME,Retail,Sohar,T08,2020-02-26
+918,CUST-00918,Muscat Bay Retail Trading,OM,SME,Financial Services,Sohar,T08,2019-05-24
+919,CUST-00919,Qurum Real Estate Partners,OM,SME,Hospitality,Salalah,T08,2020-05-06
+920,CUST-00920,Qurum Logistics Enterprises,OM,SME,Government Services,Salalah,T08,2023-03-07
+921,CUST-00921,Sur Government Services Solutions,OM,SME,Education,Salalah,T08,2019-07-31
+922,CUST-00922,Frankincense Retail Partners,OM,SME,Manufacturing,Muscat,T08,2021-04-30
+923,CUST-00923,Dhofar Education Trading,OM,SME,Construction,Muscat,T08,2019-08-31
+924,CUST-00924,Frankincense Logistics Group,OM,SME,Retail,Nizwa,T08,2019-12-17
+925,CUST-00925,Dhofar Government Services Holding,OM,SME,Healthcare,Nizwa,T08,2023-04-06
+926,CUST-00926,Wadi Energy Holding,OM,SME,Government Services,Nizwa,T08,2019-09-29
+927,CUST-00927,Frankincense Government Services Group,OM,SME,Construction,Salalah,T08,2022-07-01
+928,CUST-00928,Hajar Logistics Co.,OM,SME,Energy,Salalah,T08,2022-10-09
+929,CUST-00929,Hajar Education Co.,OM,SME,Manufacturing,Salalah,T08,2019-12-26
+930,CUST-00930,Dhofar Media Group,OM,SME,Construction,Nizwa,T08,2021-03-06
+931,CUST-00931,Batinah Healthcare Co.,OM,SME,Manufacturing,Nizwa,T08,2021-09-25
+932,CUST-00932,Sur Manufacturing Trading,OM,SME,Media,Nizwa,T08,2023-11-18
+933,CUST-00933,Wadi Media Enterprises,OM,SME,Retail,Salalah,T08,2021-03-06
+934,CUST-00934,Frankincense Education Partners,OM,SME,Real Estate,Nizwa,T08,2021-04-24
+935,CUST-00935,Wadi Retail Co.,OM,SME,Real Estate,Nizwa,T08,2022-06-25
+936,CUST-00936,Sur Retail Solutions,OM,SME,Construction,Nizwa,T08,2019-08-21
+937,CUST-00937,Sur Construction Group,OM,SME,Hospitality,Sohar,T08,2022-05-16
+938,CUST-00938,Batinah Energy Co.,OM,SME,Hospitality,Sohar,T08,2020-04-21
+939,CUST-00939,Sur Government Services Trading,OM,SME,Government Services,Muscat,T08,2019-08-10
+940,CUST-00940,Qurum Education Enterprises,OM,SME,Healthcare,Sohar,T08,2019-07-16
+941,CUST-00941,Hajar Manufacturing Enterprises,OM,SME,Media,Muscat,T08,2021-03-21
+942,CUST-00942,Batinah Hospitality Trading,OM,SME,Healthcare,Salalah,T08,2022-12-11
+943,CUST-00943,Qurum Energy Solutions,OM,SME,Retail,Salalah,T08,2022-04-07
+944,CUST-00944,Sur Energy Holding,OM,SME,Media,Sohar,T08,2021-06-14
+945,CUST-00945,Hajar Healthcare Services,OM,SME,Retail,Salalah,T08,2019-03-03
+946,CUST-00946,Qurum Construction Partners,OM,SME,Logistics,Muscat,T08,2021-08-02
+947,CUST-00947,Wadi Healthcare Solutions,OM,SME,Education,Salalah,T08,2023-09-30
+948,CUST-00948,Sur Media Co.,OM,SME,Logistics,Nizwa,T08,2019-10-15
+949,CUST-00949,Sur Retail Co.,OM,SME,Real Estate,Salalah,T08,2022-05-11
+950,CUST-00950,Frankincense Healthcare Holding,OM,SME,Real Estate,Sohar,T08,2020-06-14
+951,CUST-00951,Dhofar Retail Services,OM,SME,Healthcare,Sohar,T08,2019-02-14
+952,CUST-00952,Frankincense Healthcare Group,OM,SME,Energy,Muscat,T08,2019-10-27
+953,CUST-00953,Frankincense Education Enterprises,OM,SME,Energy,Nizwa,T08,2020-02-17
+954,CUST-00954,Frankincense Construction Enterprises,OM,SME,Hospitality,Sohar,T08,2019-08-31
+955,CUST-00955,Batinah Hospitality Enterprises,OM,SME,Healthcare,Muscat,T08,2020-05-26
+956,CUST-00956,Wadi Retail Services,OM,SME,Government Services,Salalah,T08,2023-01-07
+957,CUST-00957,Qurum Financial Services Enterprises,OM,SME,Construction,Nizwa,T08,2021-01-29
+958,CUST-00958,Sur Healthcare Enterprises,OM,SME,Government Services,Sohar,T08,2022-01-04
+959,CUST-00959,Hajar Government Services Partners,OM,SME,Energy,Salalah,T08,2020-06-24
+960,CUST-00960,Muscat Bay Hospitality Co.,OM,SME,Education,Salalah,T08,2019-12-24
+961,CUST-00961,Wadi Media Co.,OM,SME,Manufacturing,Nizwa,T08,2023-11-05
+962,CUST-00962,Wadi Education Solutions,OM,SME,Manufacturing,Nizwa,T08,2021-05-04
+963,CUST-00963,Hajar Hospitality Trading,OM,SME,Construction,Muscat,T08,2019-02-22
+964,CUST-00964,Muscat Bay Healthcare Group,OM,SME,Energy,Sohar,T08,2022-05-17
+965,CUST-00965,Frankincense Healthcare Services,OM,SME,Logistics,Sohar,T08,2019-01-09
+966,CUST-00966,Qurum Construction Co.,OM,SME,Hospitality,Muscat,T08,2019-02-12
+967,CUST-00967,Sur Real Estate Solutions,OM,SME,Financial Services,Nizwa,T08,2023-06-03
+968,CUST-00968,Muscat Bay Construction Solutions,OM,SME,Manufacturing,Nizwa,T08,2019-02-27
+969,CUST-00969,Muscat Bay Government Services Services,OM,SME,Media,Muscat,T08,2019-01-22
+970,CUST-00970,Batinah Logistics Enterprises,OM,SME,Financial Services,Salalah,T08,2023-03-12

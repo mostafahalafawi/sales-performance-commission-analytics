@@ -1,0 +1,9 @@
+team_key,team_id,team_name,department_code,department_name,country_code,country_name,manager_code,manager_name,hc_2024,hc_2025
+1,T01,Egypt Enterprise,ENT,Enterprise Sales,EG,Egypt,MGR-01,Saud Al-Shehri,9,9
+2,T02,Egypt SME,SME,SME Sales,EG,Egypt,MGR-02,Walid Al-Zahrani,11,12
+3,T03,Egypt Channel,CHN,Channel & Partner Sales,EG,Egypt,MGR-03,Ahmed Kamal,7,7
+4,T04,KSA Enterprise,ENT,Enterprise Sales,SA,Saudi Arabia,MGR-04,Reem Rizk,10,11
+5,T05,KSA SME,SME,SME Sales,SA,Saudi Arabia,MGR-05,Ibrahim Rizk,10,10
+6,T06,UAE Enterprise,ENT,Enterprise Sales,AE,UAE,MGR-06,Omar Al-Shehri,9,10
+7,T07,UAE Channel,CHN,Channel & Partner Sales,AE,UAE,MGR-07,Mariam Saleh,8,8
+8,T08,Oman SME,SME,SME Sales,OM,Oman,MGR-08,Sherif Al-Qahtani,5,8

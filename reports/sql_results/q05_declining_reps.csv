@@ -1,0 +1,7 @@
+employee_code,full_name,team_name,latest_month,ach_months_7_12_pct,ach_prior_3m_pct,ach_last_3m_pct,change_pp
+REP-001,Majid Taha,Egypt SME,202512,126.9,101.0,66.8,-34.2
+REP-015,Mohamed Shawky,Egypt SME,202512,114.6,105.8,79.3,-26.5
+REP-028,Khaled Shawky,KSA Enterprise,202512,115.1,64.7,40.0,-24.6
+REP-003,Nour Zaki,Egypt Enterprise,202512,123.8,99.1,83.9,-15.2
+REP-054,Mariam Adly,UAE Enterprise,202512,66.3,62.4,52.6,-9.8
+REP-060,Samir Lotfy,UAE Channel,202512,86.8,83.7,83.0,-0.7

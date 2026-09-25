@@ -1,0 +1,4 @@
+segment,reps,avg_achievement_pct,deal_volume_index,deal_size_index,discount_rate_pct,credit_note_rate_pct,strategic_mix_pct,month_end_share_pct
+1 Under-performer (<80%),18,68.1,78.5,93.2,11.9,3.75,32.7,22.2
+2 Near target (80-99%),30,92.4,94.6,100.0,10.48,2.08,30.3,22.8
+3 Performer (>=100%),34,116.6,116.2,103.6,10.37,1.81,28.1,22.0

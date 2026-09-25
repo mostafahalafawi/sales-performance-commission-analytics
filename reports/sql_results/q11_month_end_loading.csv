@@ -1,0 +1,13 @@
+employee_code,full_name,month_key,invoiced_usd,month_end_share_pct,reversed_within_60d_usd,pct_of_month_end_reversed,tier_paid
+REP-034,Aisha Osman,202504,245309.0,61.8,151482.0,100.0,T3 Accelerator
+REP-034,Aisha Osman,202505,307855.0,59.3,139648.0,76.5,T3 Accelerator
+REP-049,Walid Al-Ketbi,202407,203001.0,70.1,127727.0,89.8,T3 Accelerator
+REP-037,Youssef Shawky,202405,265384.0,71.8,107345.0,56.3,T3 Accelerator
+REP-034,Aisha Osman,202410,262803.0,66.4,99430.0,57.0,T3 Accelerator
+REP-037,Youssef Shawky,202411,297077.0,53.2,96448.0,61.0,T3 Accelerator
+REP-023,Fahad Shawky,202510,76313.0,68.8,52501.0,100.0,T1 Approaching
+REP-049,Walid Al-Ketbi,202510,110379.0,60.7,44347.0,66.2,T3 Accelerator
+REP-049,Walid Al-Ketbi,202409,122381.0,72.1,42794.0,48.5,T0 Below Gate
+REP-023,Fahad Shawky,202508,46128.0,86.2,39766.0,100.0,T1 Approaching
+REP-023,Fahad Shawky,202410,39112.0,55.2,9836.0,45.6,T1 Approaching
+REP-025,Walid Khoury,202503,20467.0,52.7,5136.0,47.6,T0 Below Gate
